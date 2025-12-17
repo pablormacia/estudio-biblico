@@ -128,6 +128,32 @@ body {
   --sidebar-ring: oklch(0.556 0 0);
 }
 
+/* Aplica sobre el item real de vis-timeline */
+.vis-timeline .vis-item.tl-color-1 {
+  background-color: #e0f2fe !important;
+  border-color: #7dd3fc !important;
+}
+
+.vis-timeline .vis-item.tl-color-2 {
+  background-color: #f0fdf4 !important;
+  border-color: #86efac !important;
+}
+
+.vis-timeline .vis-item.tl-color-3 {
+  background-color: #fff7ed !important;
+  border-color: #fdba74 !important;
+}
+
+.vis-timeline .vis-item.tl-color-4 {
+  background-color: #fefce8 !important;
+  border-color: #fde047 !important;
+}
+
+.vis-timeline .vis-item.tl-color-5 {
+  background-color: #f5f3ff !important;
+  border-color: #c4b5fd !important;
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;

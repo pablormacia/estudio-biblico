@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { Libre_Baskerville, Inter } from "next/font/google";
-import "./globals.css";
+
 import "vis-timeline/styles/vis-timeline-graph2d.min.css";
+import "./globals.css";
 import Header from "@/src/components/Header";
 
 const baskerville = Libre_Baskerville({
