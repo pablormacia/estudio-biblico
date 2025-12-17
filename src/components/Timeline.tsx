@@ -15,27 +15,23 @@ export default function TimelineView({
   onSelect: (id: string) => void;
 }) {
   const containerRef = useRef<HTMLDivElement>(null);
-  const [isMobile, setIsMobile] = useState(false);
+  const [isMobile, setIsMobile] = useState<boolean | null>(null);
   const EVENT_COLORS = ["tl-color-1", "tl-color-2", "tl-color-3", "tl-color-4", "tl-color-5"] as const;
-  const MOBILE_INITIAL_SPAN_YEARS = 600;
+  const MOBILE_INITIAL_SPAN_YEARS = 500;
 
   useEffect(() => {
-    const checkMobile = () => {
-      setIsMobile(window.innerWidth < 640);
-    };
-
-    checkMobile(); // primera medición
-    window.addEventListener("resize", checkMobile);
-
-    return () => {
-      window.removeEventListener("resize", checkMobile);
-    };
+    const check = () => setIsMobile(window.innerWidth < 640);
+    check();
+    window.addEventListener("resize", check);
+    return () => window.removeEventListener("resize", check);
   }, []);
 
   useEffect(() => {
     if (!containerRef.current) return;
+    if (isMobile === null) return;
+    if (!events?.length) return;
 
-
+    containerRef.current.innerHTML = "";
     const items = new DataSet(
       events.map((e, index) => {
         const colorClass = EVENT_COLORS[index % EVENT_COLORS.length];
@@ -70,23 +66,20 @@ export default function TimelineView({
         axis: 12,
       },
       minHeight: isMobile ? "80vh" : "420px",
-maxHeight: isMobile ? "80vh" : "420px",
+      maxHeight: isMobile ? "80vh" : "420px",
       format: {
         majorLabels: formatYearLabel,
       }
     });
 
-    if (isMobile) {
-      const years = events.map((e) => e.start);
-      const minYear = Math.min(...years);
-
+     if (isMobile) {
+      const minYear = Math.min(...events.map((e) => e.start));
       timeline.setWindow(
         dateFromYear(minYear),
         dateFromYear(minYear + MOBILE_INITIAL_SPAN_YEARS),
         { animation: false }
       );
     }
-
     timeline.on("select", (props) => {
       if (props.items.length) {
         onSelect(props.items[0] as string);
@@ -96,7 +89,7 @@ maxHeight: isMobile ? "80vh" : "420px",
     return () => {
       timeline.destroy();
     };
-  }, [events, onSelect]);
+  }, [events, onSelect,isMobile]);
 
   return (
     <div
