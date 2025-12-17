@@ -1,10 +1,11 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { DataSet } from "vis-data";
 import { Timeline } from "vis-timeline/standalone";
 import { dateFromYear } from "@/src/lib/date";
 import { TimelineEvent } from "@/src/data/timeline-events";
+import { formatYearLabel } from "../lib/timeline-format";
 
 export default function TimelineView({
   events,
@@ -14,27 +15,41 @@ export default function TimelineView({
   onSelect: (id: string) => void;
 }) {
   const containerRef = useRef<HTMLDivElement>(null);
+  const [isMobile, setIsMobile] = useState(false);
+  const EVENT_COLORS = ["tl-color-1", "tl-color-2", "tl-color-3", "tl-color-4", "tl-color-5"] as const;
+  const MOBILE_INITIAL_SPAN_YEARS = 300;
 
- const EVENT_COLORS = ["tl-color-1", "tl-color-2", "tl-color-3", "tl-color-4", "tl-color-5"] as const;
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth < 640);
+    };
+
+    checkMobile(); // primera medición
+    window.addEventListener("resize", checkMobile);
+
+    return () => {
+      window.removeEventListener("resize", checkMobile);
+    };
+  }, []);
 
   useEffect(() => {
     if (!containerRef.current) return;
 
-    
-const items = new DataSet(
-  events.map((e, index) => {
-    const colorClass = EVENT_COLORS[index % EVENT_COLORS.length];
 
-    return {
-      id: e.id,
-      content: `<span class="tl-title">${e.title}</span>`,
-      start: dateFromYear(e.start),
-      end: e.end ? dateFromYear(e.end) : dateFromYear(e.start + 1),
-      type: "box",
-      className: colorClass,
-    };
-  })
-);
+    const items = new DataSet(
+      events.map((e, index) => {
+        const colorClass = EVENT_COLORS[index % EVENT_COLORS.length];
+
+        return {
+          id: e.id,
+          content: `<span class="tl-title">${e.title}</span>`,
+          start: dateFromYear(e.start),
+          end: e.end ? dateFromYear(e.end) : dateFromYear(e.start + 1),
+          type: "box",
+          className: colorClass,
+        };
+      })
+    );
 
     const timeline = new Timeline(containerRef.current, items, {
       zoomable: true,
@@ -43,11 +58,34 @@ const items = new DataSet(
       horizontalScroll: true,
       selectable: true,
       showCurrentTime: false,
+      zoomMin: isMobile
+        ? 1000 * 60 * 60 * 24 * 365 * 50   // mínimo 50 años
+        : 1000 * 60 * 60 * 24 * 365 * 200, // desktop más amplio
+
+      zoomMax: isMobile
+        ? 1000 * 60 * 60 * 24 * 365 * 500  // mobile no puede alejarse demasiado
+        : undefined,
       margin: {
-        item: 12,
-        axis: 10,
+        item: isMobile ? 20 : 12,
+        axis: 12,
       },
+      minHeight: isMobile ? "80vh" : "420px",
+maxHeight: isMobile ? "80vh" : "420px",
+      format: {
+        majorLabels: formatYearLabel,
+      }
     });
+
+    if (isMobile) {
+      const years = events.map((e) => e.start);
+      const minYear = Math.min(...years);
+
+      timeline.setWindow(
+        dateFromYear(minYear),
+        dateFromYear(minYear + MOBILE_INITIAL_SPAN_YEARS),
+        { animation: false }
+      );
+    }
 
     timeline.on("select", (props) => {
       if (props.items.length) {
@@ -60,5 +98,10 @@ const items = new DataSet(
     };
   }, [events, onSelect]);
 
-  return <div ref={containerRef} className="h-[400px] w-full" />;
+  return (
+    <div
+      ref={containerRef}
+      className="w-full "
+    />
+  );
 }
