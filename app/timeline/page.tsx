@@ -1,34 +1,99 @@
-'use client'
+"use client";
+
+import { useState, useCallback } from "react";
 import TimelineView from "@/src/components/Timeline";
-import EventDetails from "@/src/components/EventDetails";
+import EventDetailsPanel from "@/src/components/EventDetailsPanel";
+import { timelineEvents, TimelineEvent } from "@/src/data/timeline-events";
+import TimelineBreadcrumb from "@/src/components/TimelineBreadcrumb";
 
 export default function TimelinePage() {
-  return (
-    <main className="min-h-screen bg-slate-50 p-6">
-      <h1 className="text-2xl font-semibold mb-4">
-        Línea de tiempo bíblica
-      </h1>
+    const [activeParent, setActiveParent] = useState<string | null>(null);
+    const [selectedEvent, setSelectedEvent] = useState<TimelineEvent | null>(null);
+    const [zoomRange, setZoomRange] = useState<{ start: number; end: number } | null>(null);
 
-      <p className="text-sm text-slate-600 mb-6 max-w-3xl">
-        Línea de tiempo interactiva centrada en el nacimiento de Jesús.
-        Permite explorar los principales sucesos bíblicos y los libros
-        que los narran.
-      </p>
+    const getEventById = (id: string) =>
+        timelineEvents.find((e) => e.id === id) || null;
 
-      {/* Timeline */}
-      <section className="mb-8">
-        <TimelineView
-          onSelect={(id) => {
-            // por ahora solo log, luego lo conectamos al panel
-            console.log("Evento seleccionado:", id);
-          }}
-        />
-      </section>
+    const navigateToEvent = (event: TimelineEvent) => {
+        setSelectedEvent(event);
 
-      {/* Panel de detalles (placeholder) */}
-      <section>
-        <EventDetails />
-      </section>
-    </main>
-  );
+        if (event.level === 1) {
+            const start = event.start;
+            const end = event.end ?? event.start;
+            const span = Math.max(50, Math.abs(end - start));
+            const pad = Math.round(span * 0.15);
+
+            setZoomRange({
+                start: start - pad,
+                end: end + pad,
+            });
+
+            setActiveParent(event.id);
+        }
+    };
+
+
+    const visibleEvents: TimelineEvent[] = activeParent
+        ? timelineEvents.filter(
+            (e) => e.level === 2 && e.parentId === activeParent
+        )
+        : timelineEvents.filter((e) => e.level === 1);
+
+    const handleSelect = useCallback((id: string) => {
+        const event = timelineEvents.find((e) => e.id === id);
+        if (!event) return;
+
+        setSelectedEvent(event);
+
+        if (event.level === 1) {
+            const start = event.start;
+            const end = event.end ?? event.start;
+            const span = Math.max(50, Math.abs(end - start));
+            const pad = Math.round(span * 0.15);
+
+            setZoomRange({
+                start: start - pad,
+                end: end + pad,
+            });
+
+            setActiveParent(event.id);
+        }
+    }, []);
+
+    return (
+        <main className="flex flex-col md:flex-row h-full">
+            <section className="flex-1 p-6">
+                {activeParent && (
+                    <button
+                        onClick={() => {
+                            setActiveParent(null);
+                            setZoomRange(null);
+                            setSelectedEvent(null);
+                        }}
+                        className="mb-4 text-sm text-blue-600 underline"
+                    >
+                        ← Volver a vista general
+                    </button>
+                )}
+
+                <TimelineView
+                    events={visibleEvents}
+                    zoomRange={zoomRange}
+                    onSelect={handleSelect}
+                />
+                            <TimelineBreadcrumb
+  event={selectedEvent}
+  getParent={getEventById}
+  onNavigate={navigateToEvent}
+/>
+
+            </section>
+
+
+            <EventDetailsPanel
+                event={selectedEvent}
+                onClose={() => setSelectedEvent(null)}
+            />
+        </main>
+    );
 }
