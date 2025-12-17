@@ -2,97 +2,226 @@ export type TimelineEvent = {
   id: string;
   title: string;
 
-  start: number; // año (a.C. negativo)
-  end?: number;  // si es un período
+  // años astronómicos: a.C. negativos, d.C. positivos
+  start: number;
+  end?: number;
 
-  level: 1 | 2 | 3; // nivel de zoom
-  parentId?: string;
+  level: 1 | 2 | 3;
 
   description?: string;
 
-  books?: {
-    name: string;
-    chapters?: string;
+  books: {
+    book: string;       // id del libro (coincide con tus JSON)
+    chapters?: string;  // opcional
   }[];
 };
 
 export const timelineEvents: TimelineEvent[] = [
 
-  // ───────── NIVEL 1 (macro)
+  // ───────── CREACIÓN Y PRIMEROS TIEMPOS
   {
-    id: "creation-era",
-    title: "Creación y primeros tiempos",
+    id: "creation",
+    title: "Creación",
     start: -4000,
-    end: -2300,
-    level: 1
+    level: 1,
+    description: "Creación del mundo según el relato bíblico",
+    books: [{ book: "genesis", chapters: "1–2" }]
   },
 
-  // ───────── NIVEL 2
+  {
+    id: "fall",
+    title: "Caída del hombre",
+    start: -4000,
+    level: 1,
+    books: [{ book: "genesis", chapters: "3" }]
+  },
+
   {
     id: "flood",
     title: "Diluvio",
-    start: -2400,
+    start: -2500,
     end: -2300,
-    level: 2,
-    parentId: "creation-era",
-    description: "Juicio y renovación según la tradición bíblica",
-    books: [{ name: "Génesis", chapters: "6–9" }]
+    level: 1,
+    books: [{ book: "genesis", chapters: "6–9" }]
   },
 
   {
     id: "babel",
     title: "Torre de Babel",
     start: -2200,
-    level: 2,
-    parentId: "creation-era",
-    books: [{ name: "Génesis", chapters: "11" }]
+    level: 1,
+    books: [{ book: "genesis", chapters: "11" }]
   },
 
-  // ───────── NIVEL 1
+  // ───────── PATRIARCAS
   {
-    id: "exodus-era",
-    title: "Éxodo y formación de Israel",
-    start: -1300,
-    end: -1200,
-    level: 1
+    id: "abraham",
+    title: "Llamado de Abraham",
+    start: -2000,
+    level: 1,
+    books: [{ book: "genesis", chapters: "12–25" }]
   },
 
-  // ───────── NIVEL 2
+  {
+    id: "isaac-jacob",
+    title: "Isaac y Jacob",
+    start: -1900,
+    end: -1700,
+    level: 1,
+    books: [{ book: "genesis", chapters: "26–36" }]
+  },
+
+  {
+    id: "joseph",
+    title: "José en Egipto",
+    start: -1700,
+    level: 1,
+    books: [{ book: "genesis", chapters: "37–50" }]
+  },
+
+  // ───────── ÉXODO E ISRAEL
   {
     id: "exodus",
-    title: "Éxodo",
-    start: -1250,
-    level: 2,
-    parentId: "exodus-era",
-    books: [{ name: "Éxodo", chapters: "1–15" }]
+    title: "Éxodo de Egipto",
+    start: -1300,
+    level: 1,
+    books: [{ book: "exodo", chapters: "1–15" }]
   },
 
-  // ───────── NIVEL 3
   {
     id: "desert",
     title: "40 años en el desierto",
-    start: -1250,
-    end: -1210,
-    level: 3,
-    parentId: "exodus",
+    start: -1300,
+    end: -1260,
+    level: 1,
     books: [
-      { name: "Éxodo" },
-      { name: "Números" },
-      { name: "Deuteronomio" }
+      { book: "exodo" },
+      { book: "numeros" },
+      { book: "deuteronomio" }
     ]
   },
 
-  // ───────── CENTRO
+  {
+    id: "conquest",
+    title: "Conquista de Canaán",
+    start: -1250,
+    level: 1,
+    books: [{ book: "josue" }]
+  },
+
+  {
+    id: "judges",
+    title: "Época de los jueces",
+    start: -1200,
+    end: -1050,
+    level: 1,
+    books: [{ book: "jueces" }]
+  },
+
+  // ───────── MONARQUÍA
+  {
+    id: "kingdom",
+    title: "Monarquía unida (Saúl, David, Salomón)",
+    start: -1050,
+    end: -930,
+    level: 1,
+    books: [
+      { book: "1_samuel" },
+      { book: "2_samuel" },
+      { book: "1_reyes" }
+    ]
+  },
+
+  {
+    id: "divided-kingdom",
+    title: "Reinos divididos (Israel y Judá)",
+    start: -930,
+    end: -722,
+    level: 1,
+    books: [
+      { book: "1_reyes" },
+      { book: "2_reyes" }
+    ]
+  },
+
+  // ───────── EXILIO
+  {
+    id: "exile",
+    title: "Exilio en Babilonia",
+    start: -586,
+    end: -538,
+    level: 1,
+    books: [
+      { book: "jeremias" },
+      { book: "lamentaciones" },
+      { book: "ezequiel" },
+      { book: "daniel" }
+    ]
+  },
+
+  {
+    id: "return",
+    title: "Retorno del exilio",
+    start: -538,
+    level: 1,
+    books: [
+      { book: "esdras" },
+      { book: "nehemias" },
+      { book: "hageo" },
+      { book: "zacarias" }
+    ]
+  },
+
+  // ───────── JESÚS (CENTRO)
   {
     id: "jesus-birth",
     title: "Nacimiento de Jesús",
     start: 0,
     level: 1,
-    description: "Centro de la línea del tiempo",
     books: [
-      { name: "Mateo", chapters: "1–2" },
-      { name: "Lucas", chapters: "1–2" }
+      { book: "mateo", chapters: "1–2" },
+      { book: "lucas", chapters: "1–2" }
+    ]
+  },
+
+  {
+    id: "jesus-ministry",
+    title: "Ministerio de Jesús",
+    start: 30,
+    end: 33,
+    level: 1,
+    books: [
+      { book: "mateo" },
+      { book: "marcos" },
+      { book: "lucas" },
+      { book: "juan" }
+    ]
+  },
+
+  {
+    id: "crucifixion",
+    title: "Crucifixión y resurrección",
+    start: 33,
+    level: 1,
+    books: [
+      { book: "mateo", chapters: "27–28" },
+      { book: "marcos", chapters: "15–16" },
+      { book: "lucas", chapters: "23–24" },
+      { book: "juan", chapters: "19–21" }
+    ]
+  },
+
+  // ───────── IGLESIA PRIMITIVA
+  {
+    id: "church",
+    title: "Iglesia primitiva",
+    start: 33,
+    end: 100,
+    level: 1,
+    books: [
+      { book: "hechos" },
+      { book: "romanos" },
+      { book: "corintios" }
     ]
   }
-
 ];
