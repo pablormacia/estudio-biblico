@@ -17,7 +17,7 @@ export default function TimelineView({
   const containerRef = useRef<HTMLDivElement>(null);
   const [isMobile, setIsMobile] = useState(false);
   const EVENT_COLORS = ["tl-color-1", "tl-color-2", "tl-color-3", "tl-color-4", "tl-color-5"] as const;
-  const MOBILE_INITIAL_SPAN_YEARS = 300;
+  const MOBILE_INITIAL_SPAN_YEARS = 600;
 
   useEffect(() => {
     const checkMobile = () => {
