@@ -1,134 +1,132 @@
 {
-  "bookNumber": 46,
   "book": "1 Corintios",
-  "abbrev": "1Cor",
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "v": 1,
-          "text": "PABLO, llamado á ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes el hermano,"
+          "text": "Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y el hermano Sóstenes,"
         },
         {
           "v": 2,
-          "text": "A la iglesia de Dios que está en Corinto, santificados en Cristo Jesús, llamados santos, y á todos los que invocan el nombre de nuestro Señor Jesucristo en cualquier lugar, Señor de ellos y nuestro:"
+          "text": "a la iglesia de Dios que está en Corinto, a los santificados en Cristo Jesús, llamados a ser santos con todos los que en cualquier lugar invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:"
         },
         {
           "v": 3,
-          "text": "Gracia y paz de Dios nuestro Padre, y del Señor Jesucristo."
+          "text": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo."
         },
         {
           "v": 4,
-          "text": "Gracias doy á mi Dios siempre por vosotros, por la gracia de Dios que os es dada en Cristo Jesús;"
+          "text": "Gracias doy a mi Dios siempre por vosotros, por la gracia de Dios que os fue dada en Cristo Jesús;"
         },
         {
           "v": 5,
-          "text": "Que en todas las cosas sois enriquecidos en él, en toda lengua y en toda ciencia;"
+          "text": "porque en todas las cosas fuisteis enriquecidos en él, en toda palabra y en toda ciencia;"
         },
         {
           "v": 6,
-          "text": "Así como el testimonio de Cristo ha sido confirmado en vosotros:"
+          "text": "así como el testimonio acerca de Cristo ha sido confirmado en vosotros,"
         },
         {
           "v": 7,
-          "text": "De tal manera que nada os falte en ningún don, esperando la manifestación de nuestro Señor Jesucristo:"
+          "text": "de tal manera que nada os falta en ningún don, esperando la manifestación de nuesto Señor Jesucristo;"
         },
         {
           "v": 8,
-          "text": "El cual también os confirmará hasta el fin, para que seáis sin falta en el día de nuestro Señor Jesucristo."
+          "text": "el cual también os confirmará hasta el fin, para que seáis irreprensibles en el día de nuestro Señor Jesucristo."
         },
         {
           "v": 9,
-          "text": "Fiel es Dios, por el cual sois llamados á la participación de su Hijo Jesucristo nuestro Señor."
+          "text": "Fiel es Dios, por el cual fuisteis llamados a la comunión con su Hijo Jesucristo nuestro Señor."
         },
         {
           "v": 10,
-          "text": "Os ruego pues, hermanos, por el nombre de nuestro Señor Jesucristo, que habléis todos una misma cosa, y que no haya entre vosotros disensiones, antes seáis perfectamente unidos en una misma mente y en un mismo parecer."
+          "text": "Os ruego, pues, hermanos, por el nombre de nuestro Señor Jesucristo, que habléis todos una misma cosa, y que no haya entre vosotros divisiones, sino que estéis perfectamente unidos en una misma mente y en un mismo parecer."
         },
         {
           "v": 11,
-          "text": "Porque me ha sido declarado de vosotros, hermanos míos, por los que son de Cloé, que hay entre vosotros contiendas;"
+          "text": "Porque he sido informado acerca de vosotros, hermanos míos, por los de Cloé, que hay entre vosotros contiendas."
         },
         {
           "v": 12,
-          "text": "Quiero decir, que cada uno de vosotros dice: Yo cierto soy de Pablo; pues yo de Apolos; y yo de Cefas; y yo de Cristo."
+          "text": "Quiero decir, que cada uno de vosotros dice: Yo soy de Pablo; y yo de Apolos; y yo de Cefas; y yo de Cristo."
         },
         {
           "v": 13,
-          "text": "¿Está dividido Cristo? ¿Fué crucificado Pablo por vosotros? ¿ó habéis sido bautizados en el nombre de Pablo?"
+          "text": "¿Acaso está dividido Cristo? ¿Fue crucificado Pablo por vosotros? ¿O fuisteis bautizados en el nombre de Pablo?"
         },
         {
           "v": 14,
-          "text": "Doy gracias á Dios, que á ninguno de vosotros he bautizado, sino á Crispo y á Gayo;"
+          "text": "Doy gracias a Dios de que a ninguno de vosotros he bautizado, sino a Crispo y a Gayo,"
         },
         {
           "v": 15,
-          "text": "Para que ninguno diga que habéis sido bautizados en mi nombre."
+          "text": "para que ninguno diga que fuisteis bautizados en mi nombre."
         },
         {
           "v": 16,
-          "text": "Y también bauticé la familia de Estéfanas: mas no sé si he bautizado algún otro."
+          "text": "También bauticé a la familia de Estéfanas; de los demás, no sé si he bautizado a algún otro."
         },
         {
           "v": 17,
-          "text": "Porque no me envió Cristo á bautizar, sino á predicar el evangelio: no en sabiduría de palabras, porque no sea hecha vana la cruz de Cristo."
+          "text": "Pues no me envió Cristo a bautizar, sino a predicar el evangelio; no con sabiduría de palabras, para que no se haga vana la cruz de Cristo."
         },
         {
           "v": 18,
-          "text": "Porque la palabra de la cruz es locura á los que se pierden; mas á los que se salvan, es á saber, á nosotros, es potencia de Dios."
+          "text": "Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan, esto es, a nosotros, es poder de Dios."
         },
         {
           "v": 19,
-          "text": "Porque está escrito: Destruiré la sabiduría de los sabios, Y desecharé la inteligencia de los entendidos."
+          "text": "Pues está escrito: Destruiré la sabiduría de los sabios, Y desecharé el entendimiento de los entendidos. "
         },
         {
           "v": 20,
-          "text": "¿Qué es del sabio? ¿qué del escriba? ¿qué del escudriñador de este siglo? ¿no ha enloquecido Dios la sabiduría del mundo?"
+          "text": "¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el disputador de este siglo? ¿No ha enloquecido Dios la sabiduría del mundo?"
         },
         {
           "v": 21,
-          "text": "Porque por no haber el mundo conocido en la sabiduría de Dios á Dios por sabiduría, agradó á Dios salvar á los creyentes por la locura de la predicación."
+          "text": "Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría, agradó a Dios salvar a los creyentes por la locura de la predicación."
         },
         {
           "v": 22,
-          "text": "Porque los Judíos piden señales, y los Griegos buscan sabiduría:"
+          "text": "Porque los judíos piden señales, y los griegos buscan sabiduría;"
         },
         {
           "v": 23,
-          "text": "Mas nosotros predicamos á Cristo crucificado, á los Judíos ciertamente tropezadero, y á los Gentiles locura;"
+          "text": "pero nosotros predicamos a Cristo crucificado, para los judíos ciertamente tropezadero, y para los gentiles locura;"
         },
         {
           "v": 24,
-          "text": "Empero á los llamados, así Judíos como Griegos, Cristo potencia de Dios, y sabiduría de Dios."
+          "text": "mas para los llamados, así judíos como griegos, Cristo poder de Dios, y sabiduría de Dios."
         },
         {
           "v": 25,
-          "text": "Porque lo loco de Dios es más sabio que los hombres; y lo flaco de Dios es más fuerte que los hombres."
+          "text": "Porque lo insensato de Dios es más sabio que los hombres, y lo débil de Dios es más fuerte que los hombres."
         },
         {
           "v": 26,
-          "text": "Porque mirad, hermanos, vuestra vocación, que no sois muchos sabios según la carne, no muchos poderosos, no muchos nobles;"
+          "text": "Pues mirad, hermanos, vuestra vocación, que no sois muchos sabios según la carne, ni muchos poderosos, ni muchos nobles;"
         },
         {
           "v": 27,
-          "text": "Antes lo necio del mundo escogió Dios, para avergonzar á los sabios; y lo flaco del mundo escogió Dios, para avergonzar lo fuerte;"
+          "text": "sino que lo necio del mundo escogió Dios, para avergonzar a los sabios; y lo débil del mundo escogió Dios, para avergonzar a lo fuerte;"
         },
         {
           "v": 28,
-          "text": "Y lo vil del mundo y lo menos preciado escogió Dios, y lo que no es, para deshacer lo que es:"
+          "text": "y lo vil del mundo y lo menospreciado escogió Dios, y lo que no es, para deshacer lo que es,"
         },
         {
           "v": 29,
-          "text": "Para que ninguna carne se jacte en su presencia."
+          "text": "a fin de que nadie se jacte en su presencia."
         },
         {
           "v": 30,
-          "text": "Mas de él sois vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, y justificación, y santificación, y redención:"
+          "text": "Mas por él estáis vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, justificación, santificación y redención;"
         },
         {
           "v": 31,
-          "text": "Para que, como está escrito: El que se gloría, gloríese en el Señor."
+          "text": "para que, como está escrito: El que se gloría, gloríese en el Señor."
         }
       ]
     },
@@ -137,43 +135,43 @@
       "verses": [
         {
           "v": 1,
-          "text": "ASI que, hermanos, cuando fuí á vosotros, no fuí con altivez de palabra, ó de sabiduría, á anunciaros el testimonio de Cristo."
+          "text": "Así que, hermanos, cuando fui a vosotros para anunciaros el testimonio de Dios, no fui con excelencia de palabras o de sabiduría."
         },
         {
           "v": 2,
-          "text": "Porque no me propuse saber algo entre vosotros, sino á Jesucristo, y á éste crucificado."
+          "text": "Pues me propuse no saber entre vosotros cosa alguna sino a Jesucristo, y a éste crucificado."
         },
         {
           "v": 3,
-          "text": "Y estuve yo con vosotros con flaqueza, y mucho temor y temblor;"
+          "text": "Y estuve entre vosotros con debilidad, y mucho temor y temblor;"
         },
         {
           "v": 4,
-          "text": "Y ni mi palabra ni mi predicación fué con palabras persuasivas de humana sabiduría, mas con demostración del Espíritu y de poder;"
+          "text": "y ni mi palabra ni mi predicación fue con palabras persuasivas de humana sabiduría, sino con demostración del Espíritu y de poder,"
         },
         {
           "v": 5,
-          "text": "Para que vuestra fe no esté fundada en sabiduría de hombres, mas en poder de Dios."
+          "text": "para que vuestra fe no esté fundada en la sabiduría de los hombres, sino en el poder de Dios."
         },
         {
           "v": 6,
-          "text": "Empero hablamos sabiduría de Dios entre perfectos; y sabiduría, no de este siglo, ni de los príncipes de este siglo, que se deshacen:"
+          "text": "Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; y sabiduría, no de este siglo, ni de los príncipes de este siglo, que perecen."
         },
         {
           "v": 7,
-          "text": "Mas hablamos sabiduría de Dios en misterio, la sabiduría oculta, la cual Dios predestinó antes de los siglos para nuestra gloria:"
+          "text": "Mas hablamos sabiduría de Dios en misterio, la sabiduría oculta, la cual Dios predestinó antes de los siglos para nuestra gloria,"
         },
         {
           "v": 8,
-          "text": "La que ninguno de los príncipes de este siglo conoció; porque si la hubieran conocido, nunca hubieran crucificado al Señor de gloria:"
+          "text": "la que ninguno de los príncipes de este siglo conoció; porque si la hubieran conocido, nunca habrían crucificado al Señor de gloria."
         },
         {
           "v": 9,
-          "text": "Antes, como está escrito: Cosas que ojo no vió, ni oreja oyó, Ni han subido en corazón de hombre, Son las que ha Dios preparado para aquellos que le aman."
+          "text": "Antes bien, como está escrito: Cosas que ojo no vio, ni oído oyó, Ni han subido en corazón de hombre, Son las que Dios ha preparado para los que le aman. "
         },
         {
           "v": 10,
-          "text": "Empero Dios nos lo reveló á nosotros por el Espíritu: porque el Espíritu todo lo escudriña, aun lo profundo de Dios."
+          "text": "Pero Dios nos las reveló a nosotros por el Espíritu; porque el Espíritu todo lo escudriña, aun lo profundo de Dios."
         },
         {
           "v": 11,
@@ -181,23 +179,23 @@
         },
         {
           "v": 12,
-          "text": "Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que es de Dios, para que conozcamos lo que Dios nos ha dado;"
+          "text": "Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que proviene de Dios, para que sepamos lo que Dios nos ha concedido,"
         },
         {
           "v": 13,
-          "text": "Lo cual también hablamos, no con doctas palabras de humana sabiduría, mas con doctrina del Espíritu, acomodando lo espiritual á lo espiritual."
+          "text": "lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las que enseña el Espíritu, acomodando lo espiritual a lo espiritual."
         },
         {
           "v": 14,
-          "text": "Mas el hombre animal no percibe las cosas que son del Espíritu de Dios, porque le son locura: y no las puede entender, porque se han de examinar espiritualmente."
+          "text": "Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las puede entender, porque se han de discernir espiritualmente."
         },
         {
           "v": 15,
-          "text": "Empero el espiritual juzga todas las cosas; mas él no es juzgado de nadie."
+          "text": "En cambio el espiritual juzga todas las cosas; pero él no es juzgado de nadie."
         },
         {
           "v": 16,
-          "text": "Porque ¿quién conoció la mente del Señor? ¿quién le instruyó? Mas nosotros tenemos la mente de Cristo."
+          "text": "Porque ¿quién conoció la mente del Señor? ¿Quién le instruirá? Mas nosotros tenemos la mente de Cristo."
         }
       ]
     },
@@ -206,43 +204,43 @@
       "verses": [
         {
           "v": 1,
-          "text": "DE manera que yo, hermanos, no pude hablaros como á espirituales, sino como á carnales, como á niños en Cristo."
+          "text": "De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo."
         },
         {
           "v": 2,
-          "text": "Os dí á beber leche, y no vianda: porque aun no podíais, ni aun podéis ahora;"
+          "text": "Os di a beber leche, y no vianda; porque aún no erais capaces, ni sois capaces todavía,"
         },
         {
           "v": 3,
-          "text": "Porque todavía sois carnales: pues habiendo entre vosotros celos, y contiendas, y disensiones, ¿no sois carnales, y andáis como hombres?"
+          "text": "porque aún sois carnales; pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?"
         },
         {
           "v": 4,
-          "text": "Porque diciendo el uno: Yo cierto soy de Pablo; y el otro: Yo de Apolos; ¿no sois carnales?"
+          "text": "Porque diciendo el uno: Yo ciertamente soy de Pablo; y el otro: Yo soy de Apolos,¿no sois carnales?"
         },
         {
           "v": 5,
-          "text": "¿Qué pues es Pablo? ¿y qué es Apolos? Ministros por los cuales habéis creído; y eso según que á cada uno ha concedido el Señor."
+          "text": "¿Qué, pues, es Pablo, y qué es Apolos? Servidores por medio de los cuales habéis creído; y eso según lo que a cada uno concedió el Señor."
         },
         {
           "v": 6,
-          "text": "Yo planté, Apolos regó: mas Dios ha dado el crecimiento."
+          "text": "Yo planté, Apolos regó; pero el crecimiento lo ha dado Dios."
         },
         {
           "v": 7,
-          "text": "Así que, ni el que planta es algo, ni el que riega; sino Dios, que da el crecimiento."
+          "text": "Así que ni el que planta es algo, ni el que riega, sino Dios, que da el crecimiento."
         },
         {
           "v": 8,
-          "text": "Y el que planta y el que riega son una misma cosa; aunque cada uno recibirá su recompensa conforme á su labor."
+          "text": "Y el que planta y el que riega son una misma cosa; aunque cada uno recibirá su recompensa conforme a su labor."
         },
         {
           "v": 9,
-          "text": "Porque nosotros, coadjutores somos de Dios; y vosotros labranza de Dios sois, edificio de Dios sois."
+          "text": "Porque nosotros somos colaboradores de Dios, y vosotros sois labranza de Dios, edificio de Dios."
         },
         {
           "v": 10,
-          "text": "Conforme á la gracia de Dios que me ha sido dada, yo como perito arquitecto puse el fundamento, y otro edifica encima: empero cada uno vea cómo sobreedifica."
+          "text": "Conforme a la gracia de Dios que me ha sido dada, yo como perito arquitecto puse el fundamento, y otro edifica encima; pero cada uno mire cómo sobreedifica."
         },
         {
           "v": 11,
@@ -250,11 +248,11 @@
         },
         {
           "v": 12,
-          "text": "Y si alguno edificare sobre este fundamento oro, plata, piedras preciosas, madera, heno, hojarasca;"
+          "text": "Y si sobre este fundamento alguno edificare oro, plata, piedras preciosas, madera, heno, hojarasca,"
         },
         {
           "v": 13,
-          "text": "La obra de cada uno será manifestada: porque el día la declarará; porque por el fuego será manifestada; y la obra de cada uno cuál sea, el fuego hará la prueba."
+          "text": "la obra de cada uno se hará manifiesta; porque el día la declarará, pues por el fuego será revelada; y la obra de cada uno cuál sea, el fuego la probará."
         },
         {
           "v": 14,
@@ -262,7 +260,7 @@
         },
         {
           "v": 15,
-          "text": "Si la obra de alguno fuere quemada, será perdida: él empero será salvo, mas así como por fuego."
+          "text": "Si la obra de alguno se quemare, él sufrirá pérdida, si bien él mismo será salvo, aunque así como por fuego."
         },
         {
           "v": 16,
@@ -270,15 +268,15 @@
         },
         {
           "v": 17,
-          "text": "Si alguno violare el templo de Dios, Dios destruirá al tal: porque el templo de Dios, el cual sois vosotros, santo es."
+          "text": "Si alguno destruyere el templo de Dios, Dios le destruirá a él; porque el templo de Dios, el cual sois vosotros, santo es."
         },
         {
           "v": 18,
-          "text": "Nadie se engañe á sí mismo: si alguno entre vosotros parece ser sabio en este siglo, hágase simple, para ser sabio."
+          "text": "Nadie se engañe a sí mismo; si alguno entre vosotros se cree sabio en este siglo, hágase ignorante, para que llegue a ser sabio."
         },
         {
           "v": 19,
-          "text": "Porque la sabiduría de esta mundo es necedad para con Dios; pues escrito está: El que prende á los sabios en la astucia de ellos."
+          "text": "Porque la sabiduría de este mundo es insensatez para con Dios; pues escrito está: El prende a los sabios en la astucia de ellos."
         },
         {
           "v": 20,
@@ -286,15 +284,15 @@
         },
         {
           "v": 21,
-          "text": "Así que, ninguno se gloríe en los hombres; porque todo es vuestro,"
+          "text": "Así que, ninguno se gloríe en los hombres; porque todo es vuestro:"
         },
         {
           "v": 22,
-          "text": "Sea Pablo, sea Apolos, sea Cefas, sea el mundo, sea la vida, sea la muerte, sea lo presente, sea los por venir; todo es vuestro;"
+          "text": "sea Pablo, sea Apolos, sea Cefas, sea el mundo, sea la vida, sea la muerte, sea lo presente, sea lo por venir, todo es vuestro,"
         },
         {
           "v": 23,
-          "text": "Y vosotros de Cristo; y Cristo de Dios."
+          "text": "y vosotros de Cristo, y Cristo de Dios."
         }
       ]
     },
@@ -303,63 +301,63 @@
       "verses": [
         {
           "v": 1,
-          "text": "TÉNGANNOS los hombres por ministros de Cristo, y dispensadores de los misterios de Dios."
+          "text": "Así, pues, téngannos los hombres por servidores de Cristo, y administradores de los misterios de Dios."
         },
         {
           "v": 2,
-          "text": "Mas ahora se requiere en los dispensadores, que cada uno sea hallado fiel."
+          "text": "Ahora bien, se requiere de los administradores, que cada uno sea hallado fiel."
         },
         {
           "v": 3,
-          "text": "Yo en muy poco tengo el ser juzgado de vosotros, ó de juicio humano; y ni aun yo me juzgo."
+          "text": "Yo en muy poco tengo el ser juzgado por vosotros, o por tribunal humano; y ni aun yo me juzgo a mí mismo."
         },
         {
           "v": 4,
-          "text": "Porque aunque de nada tengo mala conciencia, no por eso soy justificado; mas el que me juzga, el Señor es."
+          "text": "Porque aunque de nada tengo mala conciencia, no por eso soy justificado; pero el que me juzga es el Señor."
         },
         {
           "v": 5,
-          "text": "Así que, no juzguéis nada antes de tiempo, hasta que venga el Señor, el cual también aclarará lo oculto de las tinieblas, y manifestará los intentos de los corazones: y entonces cada uno tendrá de Dios la alabanza."
+          "text": "Así que, no juzguéis nada antes de tiempo, hasta que venga el Señor, el cual aclarará también lo oculto de las tinieblas, y manifestará las intenciones de los corazones; y entonces cada uno recibirá su alabanza de Dios."
         },
         {
           "v": 6,
-          "text": "Esto empero, hermanos, he pasado por ejemplo en mí y en Apolos por amor de vosotros; para que en nosotros aprendáis á no saber más de lo que está escrito, hinchándoos por causa de otro el uno contra el otro."
+          "text": "Pero esto, hermanos, lo he presentado como ejemplo en mí y en Apolos por amor de vosotros, para que en nosotros aprendáis a no pensar más de lo que está escrito, no sea que por causa de uno, os envanezcáis unos contra otros."
         },
         {
           "v": 7,
-          "text": "Porque ¿quién te distingue? ¿ó qué tienes que no hayas recibido? Y si lo recibiste, ¿de qué te glorías como si no hubieras recibido?"
+          "text": "Porque ¿quién te distingue? ¿o qué tienes que no hayas recibido? Y si lo recibiste, ¿por qué te glorías como si no lo hubieras recibido?"
         },
         {
           "v": 8,
-          "text": "Ya estáis hartos, ya estáis ricos, sin nosotros reináis; y ojalá reinéis, para que nosotros reinemos también juntamente con vosotros."
+          "text": "Ya estáis saciados, ya estáis ricos, sin nosotros reináis. ¡Y ojalá reinaseis, para que nosotros reinásemos también juntamente con vosotros!"
         },
         {
           "v": 9,
-          "text": "Porque á lo que pienso, Dios nos ha mostrado á nosotros los apóstoles por los postreros, como á sentenciados á muerte: porque somos hechos espectáculo al mundo, y á los ángeles, y á los hombres."
+          "text": "Porque según pienso, Dios nos ha exhibido a nosotros los apóstoles como postreros, como a sentenciados a muerte; pues hemos llegado a ser espectáculo al mundo, a los ángeles y a los hombres."
         },
         {
           "v": 10,
-          "text": "Nosotros necios por amor de Cristo, y vosotros prudentes en Cristo; nosotros flacos, y vosotros fuertes; vosotros nobles, y nosotros viles."
+          "text": "Nosotros somos insensatos por amor de Cristo, mas vosotros prudentes en Cristo; nosotros débiles, mas vosotros fuertes; vosotros honorables, mas nosotros despreciados."
         },
         {
           "v": 11,
-          "text": "Hasta esta hora hambreamos, y tenemos sed, y estamos desnudos, y somos heridos de golpes, y andamos vagabundos;"
+          "text": "Hasta esta hora padecemos hambre, tenemos sed, estamos desnudos, somos abofeteados, y no tenemos morada fija."
         },
         {
           "v": 12,
-          "text": "Y trabajamos, obrando con nuestras manos: nos maldicen, y bendecimos: padecemos persecución, y sufrimos:"
+          "text": "Nos fatigamos trabajando con nuestras propias manos; nos maldicen, y bendecimos; padecemos persecución, y la soportamos."
         },
         {
           "v": 13,
-          "text": "Somos blasfemados, y rogamos: hemos venido á ser como la hez del mundo, el desecho de todos hasta ahora."
+          "text": "Nos difaman, y rogamos; hemos venido a ser hasta ahora como la escoria del mundo, el desecho de todos."
         },
         {
           "v": 14,
-          "text": "No escribo esto para avergonzaros: mas amonéstoos como á mis hijos amados."
+          "text": "No escribo esto para avergonzaros, sino para amonestaros como a hijos míos amados."
         },
         {
           "v": 15,
-          "text": "Porque aunque tengáis diez mil ayos en Cristo, no tendréis muchos padres; que en Cristo Jesús yo os engendré por el evangelio."
+          "text": "Porque aunque tengáis diez mil ayos en Cristo, no tendréis muchos padres; pues en Cristo Jesús yo os engendré por medio del evangelio."
         },
         {
           "v": 16,
@@ -367,23 +365,23 @@
         },
         {
           "v": 17,
-          "text": "Por lo cual os he enviado á Timoteo, que es mi hijo amado y fiel en el Señor, el cual os amonestará de mis caminos cuáles sean en Cristo, de la manera que enseño en todas partes en todas las iglesias."
+          "text": "Por esto mismo os he enviado a Timoteo, que es mi hijo amado y fiel en el Señor, el cual os recordará mi proceder en Cristo, de la manera que enseño en todas partes y en todas las iglesias."
         },
         {
           "v": 18,
-          "text": "Mas algunos están envanecidos, como si nunca hubiese yo de ir á vosotros."
+          "text": "Mas algunos están envanecidos, como si yo nunca hubiese de ir a vosotros."
         },
         {
           "v": 19,
-          "text": "Empero iré presto á vosotros, si el Señor quisiere; y entenderé, no las palabras de los que andan hinchados, sino la virtud."
+          "text": "Pero iré pronto a vosotros, si el Señor quiere, y conoceré, no las palabras, sino el poder de los que andan envanecidos."
         },
         {
           "v": 20,
-          "text": "Porque el reino de Dios no consiste en palabras, sino en virtud."
+          "text": "Porque el reino de Dios no consiste en palabras, sino en poder."
         },
         {
           "v": 21,
-          "text": "¿Qué queréis? ¿iré á vosotros con vara, ó con caridad y espíritu de mansedumbre?"
+          "text": "¿Qué queréis? ¿Iré a vosotros con vara, o con amor y espíritu de mansedumbre?"
         }
       ]
     },
@@ -392,23 +390,23 @@
       "verses": [
         {
           "v": 1,
-          "text": "DE cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los Gentiles; tanto que alguno tenga la mujer de su padre."
+          "text": "De cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los gentiles; tanto que alguno tiene la mujer de su padre."
         },
         {
           "v": 2,
-          "text": "Y vosotros estáis hinchados, y no más bien tuvisteis duelo, para que fuese quitado de en medio de vosotros el que hizo tal obra."
+          "text": "Y vosotros estáis envanecidos. ¿No debierais más bien haberos lamentado, para que fuese quitado de en medio de vosotros el que cometió tal acción?"
         },
         {
           "v": 3,
-          "text": "Y ciertamente, como ausente con el cuerpo, mas presente en espíritu, ya como presente he juzgado al que esto así ha cometido:"
+          "text": "Ciertamente yo, como ausente en cuerpo, pero presente en espíritu, ya como presente he juzgado al que tal cosa ha hecho."
         },
         {
           "v": 4,
-          "text": "En el nombre del Señor nuestro Jesucristo, juntados vosotros y mi espíritu, con la facultad de nuestro Señor Jesucristo,"
+          "text": "En el nombre de nuestro Señor Jesucristo, reunidos vosotros y mi espíritu, con el poder de nuestro Señor Jesucristo,"
         },
         {
           "v": 5,
-          "text": "El tal sea entregado á Satanás para muerte de la carne, porque el espíritu sea salvo en el día del Señor Jesús."
+          "text": "el tal sea entregado a Satanás para destrucción de la carne, a fin de que el espíritu sea salvo en el día del Señor Jesús."
         },
         {
           "v": 6,
@@ -416,31 +414,31 @@
         },
         {
           "v": 7,
-          "text": "Limpiad pues la vieja levadura, para que seáis nueva masa, como sois sin levadura: porque nuestra pascua, que es Cristo, fué sacrificada por nosotros."
+          "text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros."
         },
         {
           "v": 8,
-          "text": "Así que hagamos fiesta, no en la vieja levadura, ni en la levadura de malicia y de maldad, sino en ázimos de sinceridad y de verdad."
+          "text": "Así que celebremos la fiesta, no con la vieja levadura, ni con la levadura de malicia y de maldad, sino con panes sin levadura, de sinceridad y de verdad."
         },
         {
           "v": 9,
-          "text": "Os he escrito por carta, que no os envolváis con los fornicarios:"
+          "text": "Os he escrito por carta, que no os juntéis con los fornicarios;"
         },
         {
           "v": 10,
-          "text": "No absolutamente con los fornicarios de este mundo, ó con los avaros, ó con los ladrones, ó con los idólatras; pues en tal caso os sería menester salir del mundo."
+          "text": "no absolutamente con los fornicarios de este mundo, o con los avaros, o con los ladrones, o con los idólatras; pues en tal caso os sería necesario salir del mundo."
         },
         {
           "v": 11,
-          "text": "Mas ahora os he escrito, que no os envolváis, es á saber, que si alguno llamándose hermano fuere fornicario, ó avaro, ó idólatra, ó maldiciente, ó borracho, ó ladrón, con el tal ni aun comáis."
+          "text": "Más bien os escribí que no os juntéis con ninguno que, llamándose hermano, fuere fornicario, o avaro, o idólatra, o maldiciente, o borracho, o ladrón; con el tal ni aun comáis."
         },
         {
           "v": 12,
-          "text": "Porque ¿qué me va á mí en juzgar á los que están fuera? ¿No juzgáis vosotros á los que están dentro?"
+          "text": "Porque ¿qué razón tendría yo para juzgar a los que están fuera? ¿No juzgáis vosotros a los que están dentro?"
         },
         {
           "v": 13,
-          "text": "Porque á los que están fuera, Dios juzgará: quitad pues á ese malo de entre vosotros."
+          "text": "Porque a los que están fuera, Dios juzgará. Quitad, pues, a ese perverso de entre vosotros."
         }
       ]
     },
@@ -449,7 +447,7 @@
       "verses": [
         {
           "v": 1,
-          "text": "¿OSA alguno de vosotros, teniendo algo con otro, ir á juicio delante de los injustos, y no delante de los santos?"
+          "text": "¿Osa alguno de vosotros, cuando tiene algo contra otro, ir a juicio delante de los injustos, y no delante de los santos?"
         },
         {
           "v": 2,
@@ -457,67 +455,67 @@
         },
         {
           "v": 3,
-          "text": "¿O no sabéis que hemos de juzgar á los angeles? ¿cuánto más las cosas de este siglo?"
+          "text": "¿O no sabéis que hemos de juzgar a los ángeles? ¿Cuánto más las cosas de esta vida?"
         },
         {
           "v": 4,
-          "text": "Por tanto, si hubiereis de tener juicios de cosas de este siglo, poned para juzgar á los que son de menor estima en la iglesia."
+          "text": "Si, pues, tenéis juicios sobre cosas de esta vida, ¿ponéis para juzgar a los que son de menor estima en la iglesia?"
         },
         {
           "v": 5,
-          "text": "Para avergonzaros lo digo. ¿Pues qué, no hay entre vosotros sabio, ni aun uno que pueda juzgar entre sus hermanos;"
+          "text": "Para avergonzaros lo digo. ¿Pues qué, no hay entre vosotros sabio, ni aun uno, que pueda juzgar entre sus hermanos,"
         },
         {
           "v": 6,
-          "text": "Sino que el hermano con el hermano pleitea en juicio, y esto ante los infieles?"
+          "text": "sino que el hermano con el hermano pleitea en juicio, y esto ante los incrédulos?"
         },
         {
           "v": 7,
-          "text": "Así que, por cierto es ya una falta en vosotros que tengáis pleitos entre vosotros mismos. ¿Por qué no sufrís antes la injuria? ¿por qué no sufrís antes ser defraudados?"
+          "text": "Así que, por cierto es ya una falta en vosotros que tengáis pleitos entre vosotros mismos. ¿Por qué no sufrís más bien el agravio? ¿Por qué no sufrís más bien el ser defraudados?"
         },
         {
           "v": 8,
-          "text": "Empero vosotros hacéis la injuria, y defraudáis, y esto á los hermanos."
+          "text": "Pero vosotros cometéis el agravio, y defraudáis, y esto a los hermanos."
         },
         {
           "v": 9,
-          "text": "¿No sabéis que los injustos no poseerán el reino de Dios? No erréis, que ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones,"
+          "text": "¿No sabéis que los injustos no heredarán el reino de Dios? No erréis; ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones,"
         },
         {
           "v": 10,
-          "text": "Ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los robadores, heredarán el reino de Dios."
+          "text": "ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los estafadores, heredarán el reino de Dios."
         },
         {
           "v": 11,
-          "text": "Y esto erais algunos: mas ya sois lavados, mas ya sois santificados, mas ya sois justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios."
+          "text": "Y esto erais algunos; mas ya habéis sido lavados, ya habéis sido santificados, ya habéis sido justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios."
         },
         {
           "v": 12,
-          "text": "Todas las cosas me son lícitas, mas no todas convienen: todas las cosas me son lícitas, mas yo no me meteré debajo de potestad de nada."
+          "text": "Todas las cosas me son lícitas, mas no todas convienen; todas las cosas me son lícitas, mas yo no me dejaré dominar de ninguna."
         },
         {
           "v": 13,
-          "text": "Las viandas para el vientre, y el vientre para las viandas; empero y á él y á ellas deshará Dios. Mas el cuerpo no es para la fornicación, sino para el Señor; y el Señor para el cuerpo:"
+          "text": "Las viandas para el vientre, y el vientre para las viandas; pero tanto al uno como a las otras destruirá Dios. Pero el cuerpo no es para la fornicación, sino para el Señor, y el Señor para el cuerpo."
         },
         {
           "v": 14,
-          "text": "Y Dios que levantó al Señor, también á nosotros nos levantará con su poder."
+          "text": "Y Dios, que levantó al Señor, también a nosotros nos levantará con su poder."
         },
         {
           "v": 15,
-          "text": "¿No sabéis que vuestros cuerpos son miembros de Cristo? ¿Quitaré pues los miembros de Cristo, y los haré miembros de una ramera? Lejos sea."
+          "text": "¿No sabéis que vuestros cuerpos son miembros de Cristo? ¿Quitaré, pues, los miembros de Cristo y los haré miembros de una ramera? De ningún modo."
         },
         {
           "v": 16,
-          "text": "¿O no sabéis que el que se junta con una ramera, es hecho con ella un cuerpo? porque serán, dice, los dos en una carne."
+          "text": "¿O no sabéis que el que se une con una ramera, es un cuerpo con ella? Porque dice: Los dos serán una sola carne."
         },
         {
           "v": 17,
-          "text": "Empero el que se junta con el Señor, un espíritu es."
+          "text": "Pero el que se une al Señor, un espíritu es con él."
         },
         {
           "v": 18,
-          "text": "Huid la fornicación. Cualquier otro pecado que el hombre hiciere, fuera del cuerpo es; mas el que fornica, contra su propio cuerpo peca."
+          "text": "Huid de la fornicación. Cualquier otro pecado que el hombre cometa, está fuera del cuerpo; mas el que fornica, contra su propio cuerpo peca."
         },
         {
           "v": 19,
@@ -525,7 +523,7 @@
         },
         {
           "v": 20,
-          "text": "Porque comprados sois por precio: glorificad pues á Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dios."
+          "text": "Porque habéis sido comprados por precio; glorificad, pues, a Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dios."
         }
       ]
     },
@@ -534,163 +532,163 @@
       "verses": [
         {
           "v": 1,
-          "text": "CUANTO á las cosas de que me escribisteis, bien es al hombre no tocar mujer."
+          "text": "En cuanto a las cosas de que me escribisteis, bueno le sería al hombre no tocar mujer;"
         },
         {
           "v": 2,
-          "text": "Mas á causa de las fornicaciones, cada uno tenga su mujer, y cada una tenga su marido."
+          "text": "pero a causa de las fornicaciones, cada uno tenga su propia mujer, y cada una tenga su propio marido."
         },
         {
           "v": 3,
-          "text": "El marido pague á la mujer la debida benevolencia; y asimismo la mujer al marido."
+          "text": "El marido cumpla con la mujer el deber conyugal, y asimismo la mujer con el marido."
         },
         {
           "v": 4,
-          "text": "La mujer no tiene potestad de su propio cuerpo, sino el marido: é igualmente tampoco el marido tiene potestad de su propio cuerpo, sino la mujer."
+          "text": "La mujer no tiene potestad sobre su propio cuerpo, sino el marido; ni tampoco tiene el marido potestad sobre su propio cuerpo, sino la mujer."
         },
         {
           "v": 5,
-          "text": "No os defraudéis el uno al otro, á no ser por algún tiempo de mutuo consentimiento, para ocuparos en la oración: y volved á juntaros en uno, porque no os tiente Satanás á causa de vuestra incontinencia."
+          "text": "No os neguéis el uno al otro, a no ser por algún tiempo de mutuo consentimiento, para ocuparos sosegadamente en la oración; y volved a juntaros en uno, para que no os tiente Satanás a causa de vuestra incontinencia."
         },
         {
           "v": 6,
-          "text": "Mas esto digo por permisión, no por mandamiento."
+          "text": "Mas esto digo por vía de concesión, no por mandamiento."
         },
         {
           "v": 7,
-          "text": "Quisiera más bien que todos los hombres fuesen como yo: empero cada uno tiene su propio don de Dios; uno á la verdad así, y otro así."
+          "text": "Quisiera más bien que todos los hombres fuesen como yo; pero cada uno tiene su propio don de Dios, uno a la verdad de un modo, y otro de otro."
         },
         {
           "v": 8,
-          "text": "Digo pues á los solteros y á las viudas, que bueno les es si se quedaren como yo."
+          "text": "Digo, pues, a los solteros y a las viudas, que bueno les fuera quedarse como yo;"
         },
         {
           "v": 9,
-          "text": "Y si no tienen don de continencia, cásense; que mejor es casarse que quemarse."
+          "text": "pero si no tienen don de continencia, cásense, pues mejor es casarse que estarse quemando."
         },
         {
           "v": 10,
-          "text": "Mas á los que están juntos en matrimonio, denuncio, no yo, sino el Señor: Que la mujer no se aparte del marido;"
+          "text": "Pero a los que están unidos en matrimonio, mando, no yo, sino el Señor: Que la mujer no se separe del marido;"
         },
         {
           "v": 11,
-          "text": "Y si se apartare, que se quede sin casar, ó reconcíliese con su marido; y que el marido no despida á su mujer."
+          "text": "y si se separa, quédese sin casar, o reconcíliese con su marido; y que el marido no abandone a su mujer."
         },
         {
           "v": 12,
-          "text": "Y á los demás yo digo, no el Señor: si algún hermano tiene mujer infiel, y ella consiente en habitar con él, no la despida."
+          "text": "Y a los demás yo digo, no el Señor: Si algún hermano tiene mujer que no sea creyente, y ella consiente en vivir con él, no la abandone."
         },
         {
           "v": 13,
-          "text": "Y la mujer que tiene marido infiel, y él consiente en habitar con ella, no lo deje."
+          "text": "Y si una mujer tiene marido que no sea creyente, y él consiente en vivir con ella, no lo abandone."
         },
         {
           "v": 14,
-          "text": "Porque el marido infiel es santificado en la mujer, y la mujer infiel en el marido: pues de otra manera vuestros hijos serían inmundos; empero ahora son santos."
+          "text": "Porque el marido incrédulo es santificado en la mujer, y la mujer incrédula en el marido; pues de otra manera vuestros hijos serían inmundos, mientras que ahora son santos."
         },
         {
           "v": 15,
-          "text": "Pero si el infiel se aparta, apártese: que no es el hermano ó la hermana sujeto á servidumbre en semejante caso; antes á paz nos llamó Dios."
+          "text": "Pero si el incrédulo se separa, sepárese; pues no está el hermano o la hermana sujeto a servidumbre en semejante caso, sino que a paz nos llamó Dios."
         },
         {
           "v": 16,
-          "text": "Porque ¿de dónde sabes, oh mujer, si quizá harás salva á tu marido? ¿ó de dónde sabes, oh marido, si quizá harás salvo á tu mujer?"
+          "text": "Porque ¿qué sabes tú, oh mujer, si quizá harás salvo a tu marido? ¿O qué sabes tú, oh marido, si quizá harás salva a tu mujer?"
         },
         {
           "v": 17,
-          "text": "Empero cada uno como el Señor le repartió, y como Dios llamó á cada uno, así ande: y así enseño en todas las iglesias."
+          "text": "Pero cada uno como el Señor le repartió, y como Dios llamó a cada uno, así haga; esto ordeno en todas las iglesias."
         },
         {
           "v": 18,
-          "text": "¿Es llamado alguno circuncidado? quédese circunciso. ¿Es llamado alguno incircuncidado? que no se circuncide."
+          "text": "¿Fue llamado alguno siendo circunciso? Quédese circunciso. ¿Fue llamado alguno siendo incircunciso? No se circuncide."
         },
         {
           "v": 19,
-          "text": "La circuncisión nada es, y la incircuncisión nada es; sino la observancia de las mandamientos de Dios."
+          "text": "La circuncisión nada es, y la incircuncisión nada es, sino el guardar los mandamientos de Dios."
         },
         {
           "v": 20,
-          "text": "Cada uno en la vocación en que fué llamado, en ella se quede."
+          "text": "Cada uno en el estado en que fue llamado, en él se quede."
         },
         {
           "v": 21,
-          "text": "¿Eres llamado siendo siervo? no se te dé cuidado; mas también si puedes hacerte libre, procúralo más."
+          "text": "¿Fuiste llamado siendo esclavo? No te dé cuidado; pero también, si puedes hacerte libre, procúralo más."
         },
         {
           "v": 22,
-          "text": "Porque el que en el Señor es llamado siendo siervo, liberto es del Señor: asimismo también el que es llamado siendo libre, siervo es de Cristo."
+          "text": "Porque el que en el Señor fue llamado siendo esclavo, liberto es del Señor; asimismo el que fue llamado siendo libre, esclavo es de Cristo."
         },
         {
           "v": 23,
-          "text": "Por precio sois comprados; no os hagáis siervos de los hombres."
+          "text": "Por precio fuisteis comprados; no os hagáis esclavos de los hombres."
         },
         {
           "v": 24,
-          "text": "Cada uno, hermanos, en lo que es llamado, en esto se quede para con Dios."
+          "text": "Cada uno, hermanos, en el estado en que fue llamado, así permanezca para con Dios."
         },
         {
           "v": 25,
-          "text": "Empero de las vírgenes no tengo mandamiento del Señor; mas doy mi parecer, como quien ha alcanzado misericordia del Señor para ser fiel."
+          "text": "En cuanto a las vírgenes no tengo mandamiento del Señor; mas doy mi parecer, como quien ha alcanzado misericordia del Señor para ser fiel."
         },
         {
           "v": 26,
-          "text": "Tengo, pues, esto por bueno á causa de la necesidad que apremia, que bueno es al hombre estarse así."
+          "text": "Tengo, pues, esto por bueno a causa de la necesidad que apremia; que hará bien el hombre en quedarse como está."
         },
         {
           "v": 27,
-          "text": "¿Estás ligado á mujer? no procures soltarte. ¿Estáis suelto de mujer? no procures mujer."
+          "text": "¿Estás ligado a mujer? No procures soltarte. ¿Estás libre de mujer? No procures casarte."
         },
         {
           "v": 28,
-          "text": "Mas también si tomares mujer, no pecaste; y si la doncella se casare, no pecó: pero aflicción de carne tendrán los tales; mas yo os dejo."
+          "text": "Mas también si te casas, no pecas; y si la doncella se casa, no peca; pero los tales tendrán aflicción de la carne, y yo os la quisiera evitar."
         },
         {
           "v": 29,
-          "text": "Esto empero digo, hermanos, que el tiempo es corto: lo que resta es, que los que tienen mujeres sean como los que no las tienen,"
+          "text": "Pero esto digo, hermanos: que el tiempo es corto; resta, pues, que los que tienen esposa sean como si no la tuviesen;"
         },
         {
           "v": 30,
-          "text": "Y los que lloran, como los que no lloran; y los que se huelgan, como los que no se huelgan; y los que compran, como los que no poseen;"
+          "text": "y los que lloran, como si no llorasen; y los que se alegran, como si no se alegrasen; y los que compran, como si no poseyesen;"
         },
         {
           "v": 31,
-          "text": "Y los que usan de este mundo, como los que no usan: porque la apariencia de este mundo se pasa."
+          "text": "y los que disfrutan de este mundo, como si no lo disfrutasen; porque la apariencia de este mundo se pasa."
         },
         {
           "v": 32,
-          "text": "Quisiera, pues, que estuvieseis sin congoja. El soltero tiene cuidado de las cosas que son del Señor, cómo ha de agradar al Señor:"
+          "text": "Quisiera, pues, que estuvieseis sin congoja. El soltero tiene cuidado de las cosas del Señor, de cómo agradar al Señor;"
         },
         {
           "v": 33,
-          "text": "Empero el que se casó tiene cuidado de las cosas que son del mundo, cómo ha de agradar á su mujer."
+          "text": "pero el casado tiene cuidado de las cosas del mundo, de cómo agradar a su mujer."
         },
         {
           "v": 34,
-          "text": "Hay asimismo diferencia entre la casada y la doncella: la doncella tiene cuidado de las cosas del Señor, para ser santa así en el cuerpo como en el espíritu: mas la casada tiene cuidado de las cosas del mundo, cómo ha de agradar á su marido."
+          "text": "Hay asimismo diferencia entre la casada y la doncella. La doncella tiene cuidado de las cosas del Señor, para ser santa así en cuerpo como en espíritu; pero la casada tiene cuidado de las cosas del mundo, de cómo agradar a su marido."
         },
         {
           "v": 35,
-          "text": "Esto empero digo para vuestro provecho; no para echaros lazo, sino para lo honesto y decente, y para que sin impedimento os lleguéis al Señor."
+          "text": "Esto lo digo para vuestro provecho; no para tenderos lazo, sino para lo honesto y decente, y para que sin impedimento os acerquéis al Señor."
         },
         {
           "v": 36,
-          "text": "Mas, si á alguno parece cosa fea en su hija virgen, que pase ya de edad, y que así conviene que se haga, haga lo que quisiere, no peca; cásese."
+          "text": "Pero si alguno piensa que es impropio para su hija virgen que pase ya de edad, y es necesario que así sea, haga lo que quiera, no peca; que se case."
         },
         {
           "v": 37,
-          "text": "Pero el que está firme en su corazón, y no tiene necesidad, sino que tiene libertad de su voluntad, y determinó en su corazón esto, el guardar su hija virgen, bien hace."
+          "text": "Pero el que está firme en su corazón, sin tener necesidad, sino que es dueño de su propia voluntad, y ha resuelto en su corazón guardar a su hija virgen, bien hace."
         },
         {
           "v": 38,
-          "text": "Así que, el que la da en casamiento, bien hace; y el que no la da en casamiento, hace mejor."
+          "text": "De manera que el que la da en casamiento hace bien, y el que no la da en casamiento hace mejor."
         },
         {
           "v": 39,
-          "text": "La mujer casada está atada á la ley, mientras vive su marido; mas si su marido muriere, libre es: cásese con quien quisiere, con tal que sea en el Señor."
+          "text": "La mujer casada está ligada por la ley mientras su marido vive; pero si su marido muriere, libre es para casarse con quien quiera, con tal que sea en el Señor."
         },
         {
           "v": 40,
-          "text": "Empero más venturosa será si se quedare así, según mi consejo; y pienso que también yo tengo Espíritu de Dios."
+          "text": "Pero a mi juicio, más dichosa será si se quedare así; y pienso que también yo tengo el Espíritu de Dios."
         }
       ]
     },
@@ -699,55 +697,55 @@
       "verses": [
         {
           "v": 1,
-          "text": "Y POR lo que hace á lo sacrificado á los ídolos, sabemos que todos tenemos ciencia. La ciencia hincha, mas la caridad edifica."
+          "text": "En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento. El conocimiento envanece, pero el amor edifica."
         },
         {
           "v": 2,
-          "text": "Y si alguno se imagina que sabe algo, aun no sabe nada como debe saber."
+          "text": "Y si alguno se imagina que sabe algo, aún no sabe nada como debe saberlo."
         },
         {
           "v": 3,
-          "text": "Mas si alguno ama á Dios, el tal es conocido de él."
+          "text": "Pero si alguno ama a Dios, es conocido por él."
         },
         {
           "v": 4,
-          "text": "Acerca, pues, de las viandas que son saacrificadas á los ídolos, sabemos que el ídolo nada es en el mundo, y que no hay más de un Dios."
+          "text": "Acerca, pues, de las viandas que se sacrifican a los ídolos, sabemos que un ídolo nada es en el mundo, y que no hay más que un Dios."
         },
         {
           "v": 5,
-          "text": "Porque aunque haya algunos que se llamen dioses, ó en el cielo, ó en la tierra (como hay muchos dioses y muchos señores),"
+          "text": "Pues aunque haya algunos que se llamen dioses, sea en el cielo, o en la tierra (como hay muchos dioses y muchos señores),"
         },
         {
           "v": 6,
-          "text": "Nosotros empero no tenemos más de un Dios, el Padre, del cual son todas las cosas, y nosotros en él: y un Señor Jesucristo, por el cual son todas las cosas, y nosotros por él."
+          "text": "para nosotros, sin embargo, sólo hay un Dios, el Padre, del cual proceden todas las cosas, y nosotros somos para él; y un Señor, Jesucristo, por medio del cual son todas las cosas, y nosotros por medio de él."
         },
         {
           "v": 7,
-          "text": "Mas no en todos hay esta ciencia: porque algunos con conciencia del ídolo hasta aquí, comen como sacrificado á ídolos; y su conciencia, siendo flaca, es contaminada."
+          "text": "Pero no en todos hay este conocimiento; porque algunos, habituados hasta aquí a los ídolos, comen como sacrificado a ídolos, y su conciencia, siendo débil, se contamina."
         },
         {
           "v": 8,
-          "text": "Si bien la vianda no nos hace más aceptos á Dios: porque ni que comamos, seremos más ricos; ni que no comamos, seremos más pobres."
+          "text": "Si bien la vianda no nos hace más aceptos ante Dios; pues ni porque comamos, seremos más, ni porque no comamos, seremos menos."
         },
         {
           "v": 9,
-          "text": "Mas mirad que esta vuestra libertad no sea tropezadero á los que son flacos."
+          "text": "Pero mirad que esta libertad vuestra no venga a ser tropezadero para los débiles."
         },
         {
           "v": 10,
-          "text": "Porque si te ve alguno, á ti que tienes ciencia, que estás sentado á la mesa en el lugar de los ídolos, ¿la conciencia de aquel que es flaco, no será adelantada á comer de lo sacrificado á los ídolos?"
+          "text": "Porque si alguno te ve a ti, que tienes conocimiento, sentado a la mesa en un lugar de ídolos, la conciencia de aquel que es débil, ¿no será estimulada a comer de lo sacrificado a los ídolos?"
         },
         {
           "v": 11,
-          "text": "Y por tu ciencia se perderá el hermano flaco por el cual Cristo murió."
+          "text": "Y por el conocimiento tuyo, se perderá el hermano débil por quien Cristo murió."
         },
         {
           "v": 12,
-          "text": "De esta manera, pues, pecando contra los hermanos, é hiriendo su flaca conciencia, contra Cristo pecáis."
+          "text": "De esta manera, pues, pecando contra los hermanos e hiriendo su débil conciencia, contra Cristo pecáis."
         },
         {
           "v": 13,
-          "text": "Por lo cual, si la comida es á mi hermano ocasión de caer, jamás comeré carne por no escandalizar á mi hermano."
+          "text": "Por lo cual, si la comida le es a mi hermano ocasión de caer, no comeré carne jamás, para no poner tropiezo a mi hermano."
         }
       ]
     },
@@ -756,111 +754,111 @@
       "verses": [
         {
           "v": 1,
-          "text": "¿NO soy apóstol? ¿no soy libre? ¿no he visto á Jesús el Señor nuestro? ¿no sois vosotros mi obra en el Señor?"
+          "text": "¿No soy apóstol? ¿No soy libre? ¿No he visto a Jesús el Señor nuestro? ¿No sois vosotros mi obra en el Señor?"
         },
         {
           "v": 2,
-          "text": "Si á los otros no soy apóstol, á vosotros ciertamente lo soy: porque el sello de mi apostolado sois vosotros en el Señor."
+          "text": "Si para otros no soy apóstol, para vosotros ciertamente lo soy; porque el sello de mi apostolado sois vosotros en el Señor."
         },
         {
           "v": 3,
-          "text": "Esta es mi respuesta á los que me preguntan."
+          "text": "Contra los que me acusan, esta es mi defensa:"
         },
         {
           "v": 4,
-          "text": "Qué, ¿no tenemos potestad de comer y de beber?"
+          "text": "¿Acaso no tenemos derecho de comer y beber?"
         },
         {
           "v": 5,
-          "text": "¿No tenemos potestad de traer con nosotros una hermana mujer también como los otros apóstoles, y los hermanos del Señor, y Cefas?"
+          "text": "¿No tenemos derecho de traer con nosotros una hermana por mujer como también los otros apóstoles, y los hermanos del Señor, y Cefas?"
         },
         {
           "v": 6,
-          "text": "¿O sólo yo y Bernabé no tenemos potestad de no trabajar?"
+          "text": "¿O sólo yo y Bernabé no tenemos derecho de no trabajar?"
         },
         {
           "v": 7,
-          "text": "¿Quién jamás peleó á sus expensas? ¿quién planta viña, y no come de su fruto? ¿ó quién apacienta el ganado, y no come de la leche del ganado?"
+          "text": "¿Quién fue jamás soldado a sus propias expensas? ¿Quién planta viña y no come de su fruto? ¿O quién apacienta el rebaño y no toma de la leche del rebaño?"
         },
         {
           "v": 8,
-          "text": "¿Digo esto según los hombres? ¿no dice esto también la ley?"
+          "text": "¿Digo esto sólo como hombre? ¿No dice esto también la ley?"
         },
         {
           "v": 9,
-          "text": "Porque en la ley de Moisés está escrito: No pondrás bozal al buey que trilla. ¿Tiene Dios cuidado de los bueyes?"
+          "text": "Porque en la ley de Moisés está escrito: No pondrás bozal al buey que trilla.¿Tiene Dios cuidado de los bueyes,"
         },
         {
           "v": 10,
-          "text": "¿O dícelo enteramente por nosotros? Pues por nosotros está escrito: porque con esperanza ha de arar el que ara; y el que trilla, con esperanza de recibir el fruto."
+          "text": "o lo dice enteramente por nosotros? Pues por nosotros se escribió; porque con esperanza debe arar el que ara, y el que trilla, con esperanza de recibir del fruto."
         },
         {
           "v": 11,
-          "text": "Si nosotros os sembramos lo espiritual, ¿es gran cosa si segáremos lo vuestro carnal?"
+          "text": "Si nosotros sembramos entre vosotros lo espiritual, ¿es gran cosa si segáremos de vosotros lo material?"
         },
         {
           "v": 12,
-          "text": "Si otros tienen en vosotros esta potestad, ¿no más bien nosotros? Mas no hemos usado de esta potestad: antes lo sufrimos todo, por no poner ningún obstáculo al evangelio de Cristo."
+          "text": "Si otros participan de este derecho sobre vosotros, ¿cuánto más nosotros? Pero no hemos usado de este derecho, sino que lo soportamos todo, por no poner ningún obstáculo al evangelio de Cristo."
         },
         {
           "v": 13,
-          "text": "¿No sabéis que los que trabajan en el santuario, comen del santuario; y que los que sirven al altar, del altar participan?"
+          "text": "¿No sabéis que los que trabajan en las cosas sagradas, comen del templo, y que los que sirven al altar, del altar participan?"
         },
         {
           "v": 14,
-          "text": "Así también ordenó el Señor á los que anuncian el evangelio, que vivan del evangelio."
+          "text": "Así también ordenó el Señor a los que anuncian el evangelio, que vivan del evangelio."
         },
         {
           "v": 15,
-          "text": "Mas yo de nada de esto me aproveché: ni tampoco he escrito esto para que se haga así conmigo; porque tengo por mejor morir, antes que nadie haga vana esta mi gloria."
+          "text": "Pero yo de nada de esto me he aprovechado, ni tampoco he escrito esto para que se haga así conmigo; porque prefiero morir, antes que nadie desvanezca esta mi gloria."
         },
         {
           "v": 16,
-          "text": "Pues bien que anuncio el evangelio, no tengo por qué gloriarme porque me es impuesta necesidad; y ­ay de mí si no anunciare el evangelio!"
+          "text": "Pues si anuncio el evangelio, no tengo por qué gloriarme; porque me es impuesta necesidad; y ¡ay de mí si no anunciare el evangelio!"
         },
         {
           "v": 17,
-          "text": "Por lo cual, si lo hago de voluntad, premio tendré; mas si por fuerza, la dispensación me ha sido encargada."
+          "text": "Por lo cual, si lo hago de buena voluntad, recompensa tendré; pero si de mala voluntad, la comisión me ha sido encomendada."
         },
         {
           "v": 18,
-          "text": "¿Cuál, pues, es mi merced? Que predicando el evangelio, ponga el evangelio de Cristo de balde, para no usar mal de mi potestad en el evangelio."
+          "text": "¿Cuál, pues, es mi galardón? Que predicando el evangelio, presente gratuitamente el evangelio de Cristo, para no abusar de mi derecho en el evangelio."
         },
         {
           "v": 19,
-          "text": "Por lo cual, siendo libre para con todos, me he hecho siervo de todos por ganar á más."
+          "text": "Por lo cual, siendo libre de todos, me he hecho siervo de todos para ganar a mayor número."
         },
         {
           "v": 20,
-          "text": "Heme hecho á los Judíos como Judío, por ganar á los Judíos; á los que están sujetos á la ley (aunque yo no sea sujeto á la ley) como sujeto á la ley, por ganar á los que están sujetos á la ley;"
+          "text": "Me he hecho a los judíos como judío, para ganar a los judíos; a los que están sujetos a la ley (aunque yo no esté sujeto a la ley) como sujeto a la ley, para ganar a los que están sujetos a la ley;"
         },
         {
           "v": 21,
-          "text": "A los que son sin ley, como si yo fuera sin ley, (no estando yo sin ley de Dios, mas en la ley de Cristo) por ganar á los que estaban sin ley."
+          "text": "a los que están sin ley, como si yo estuviera sin ley (no estando yo sin ley de Dios, sino bajo la ley de Cristo), para ganar a los que están sin ley."
         },
         {
           "v": 22,
-          "text": "Me he hecho á los flacos flaco, por ganar á los flacos: á todos me he hecho todo, para que de todo punto salve á algunos."
+          "text": "Me he hecho débil a los débiles, para ganar a los débiles; a todos me he hecho de todo, para que de todos modos salve a algunos."
         },
         {
           "v": 23,
-          "text": "Y esto hago por causa del evangelio, por hacerme juntamente participante de él."
+          "text": "Y esto hago por causa del evangelio, para hacerme copartícipe de él."
         },
         {
           "v": 24,
-          "text": "¿No sabéis que los que corren en el estadio, todos á la verdad corren, mas uno lleva el premio? Corred de tal manera que lo obtengáis."
+          "text": "¿No sabéis que los que corren en el estadio, todos a la verdad corren, pero uno solo se lleva el premio? Corred de tal manera que lo obtengáis."
         },
         {
           "v": 25,
-          "text": "Y todo aquel que lucha, de todo se abstiene: y ellos, á la verdad, para recibir una corona corruptible; mas nosotros, incorruptible."
+          "text": "Todo aquel que lucha, de todo se abstiene; ellos, a la verdad, para recibir una corona corruptible, pero nosotros, una incorruptible."
         },
         {
           "v": 26,
-          "text": "Así que, yo de esta manera corro, no como á cosa incierta; de esta manera peleo, no como quien hiere el aire:"
+          "text": "Así que, yo de esta manera corro, no como a la ventura; de esta manera peleo, no como quien golpea el aire,"
         },
         {
           "v": 27,
-          "text": "Antes hiero mi cuerpo, y lo pongo en servidumbre; no sea que, habiendo predicado á otros, yo mismo venga á ser reprobado."
+          "text": "sino que golpeo mi cuerpo, y lo pongo en servidumbre, no sea que habiendo sido heraldo para otros, yo mismo venga a ser eliminado."
         }
       ]
     },
@@ -869,39 +867,39 @@
       "verses": [
         {
           "v": 1,
-          "text": "PORQUE no quiero, hermanos, que ignoréis que nuestros padres todos estuvieron bajo la nube, y todos pasaron la mar;"
+          "text": "Porque no quiero, hermanos, que ignoréis que nuestros padres todos estuvieron bajo la nube, y todos pasaron el mar;"
         },
         {
           "v": 2,
-          "text": "Y todos en Moisés fueron bautizados en la nube y en la mar;"
+          "text": "y todos en Moisés fueron bautizados en la nube y en el mar,"
         },
         {
           "v": 3,
-          "text": "Y todos comieron la misma vianda espiritual;"
+          "text": "y todos comieron el mismo alimento espiritual,"
         },
         {
           "v": 4,
-          "text": "Y todos bebieron la misma bebida espiritual; porque bebían de la piedra espiritual que los seguía, y la piedra era Cristo."
+          "text": "y todos bebieron la misma bebida espiritual; porque bebían de la roca espiritual que los seguía, y la roca era Cristo."
         },
         {
           "v": 5,
-          "text": "Mas de muchos de ellos no se agradó Dios; por lo cual fueron postrados en el desierto."
+          "text": "Pero de los más de ellos no se agradó Dios; por lo cual quedaron postrados en el desierto."
         },
         {
           "v": 6,
-          "text": "Empero estas cosas fueron en figura de nosotros, para que no codiciemos cosas malas, como ellos codiciaron."
+          "text": "Mas estas cosas sucedieron como ejemplos para nosotros, para que no codiciemos cosas malas, como ellos codiciaron."
         },
         {
           "v": 7,
-          "text": "Ni seáis honradores de ídolos, como algunos de ellos, según está escrito: Sentóse el pueblo á comer y á beber, y se levantaron á jugar."
+          "text": "Ni seáis idólatras, como algunos de ellos, según está escrito: Se sentó el pueblo a comer y a beber, y se levantó a jugar."
         },
         {
           "v": 8,
-          "text": "Ni forniquemos, como algunos de ellos fornicaron, y cayeron en un día veinte y tres mil."
+          "text": "Ni forniquemos, como algunos de ellos fornicaron, y cayeron en un día veintitrés mil."
         },
         {
           "v": 9,
-          "text": "Ni tentemos á Cristo, como también algunos de ellos le tentaron, y perecieron por las serpientes."
+          "text": "Ni tentemos al Señor, como también algunos de ellos le tentaron, y perecieron por las serpientes."
         },
         {
           "v": 10,
@@ -909,15 +907,15 @@
         },
         {
           "v": 11,
-          "text": "Y estas cosas les acontecieron en figura; y son escritas para nuestra admonición, en quienes los fines de los siglos han parado."
+          "text": "Y estas cosas les acontecieron como ejemplo, y están escritas para amonestarnos a nosotros, a quienes han alcanzado los fines de los siglos."
         },
         {
           "v": 12,
-          "text": "Así que, el que piensa estar firme, mire no caiga."
+          "text": "Así que, el que piensa estar firme, mire que no caiga."
         },
         {
           "v": 13,
-          "text": "No os ha tomado tentación, sino humana: mas fiel es Dios, que no os dejará ser tentados más de lo que podeís llevar; antes dará también juntamente con la tentación la salida, para que podáis aguantar."
+          "text": "No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir, sino que dará también juntamente con la tentación la salida, para que podáis soportar."
         },
         {
           "v": 14,
@@ -925,7 +923,7 @@
         },
         {
           "v": 15,
-          "text": "Como á sabios hablo; juzgad vosotros lo que digo."
+          "text": "Como a sensatos os hablo; juzgad vosotros lo que digo."
         },
         {
           "v": 16,
@@ -933,31 +931,31 @@
         },
         {
           "v": 17,
-          "text": "Porque un pan, es que muchos somos un cuerpo; pues todos participamos de aquel un pan."
+          "text": "Siendo uno solo el pan, nosotros, con ser muchos, somos un cuerpo; pues todos participamos de aquel mismo pan."
         },
         {
           "v": 18,
-          "text": "Mirad á Israel según la carne: los que comen de los sacrificios ¿no son partícipes con el altar?"
+          "text": "Mirad a Israel según la carne; los que comen de los sacrificios, ¿no son partícipes del altar?"
         },
         {
           "v": 19,
-          "text": "¿Qué pues digo? ¿Que el ídolo es algo? ¿ó que sea algo lo que es sacrificado á los ídolos?"
+          "text": "¿Qué digo, pues? ¿Que el ídolo es algo, o que sea algo lo que se sacrifica a los ídolos?"
         },
         {
           "v": 20,
-          "text": "Antes digo que lo que los Gentiles sacrifican, á los demonios lo sacrifican, y no á Dios: y no querría que vosotros fueseis partícipes con los demonios."
+          "text": "Antes digo que lo que los gentiles sacrifican, a los demonios lo sacrifican, y no a Dios; y no quiero que vosotros os hagáis partícipes con los demonios."
         },
         {
           "v": 21,
-          "text": "No podéis beber la copa del Señor, y la copa de los demonios: no podéis ser partícipes de la mesa del Señor, y de la mesa de los demonios."
+          "text": "No podéis beber la copa del Señor, y la copa de los demonios; no podéis participar de la mesa del Señor, y de la mesa de los demonios."
         },
         {
           "v": 22,
-          "text": "¿O provocaremos á celo al Señor? ¿Somos más fuertes que él?"
+          "text": "¿O provocaremos a celos al Señor? ¿Somos más fuertes que él?"
         },
         {
           "v": 23,
-          "text": "Todo me es lícito, mas no todo conviene: todo me es lícito, mas no todo edifica."
+          "text": "Todo me es lícito, pero no todo conviene; todo me es lícito, pero no todo edifica."
         },
         {
           "v": 24,
@@ -965,39 +963,39 @@
         },
         {
           "v": 25,
-          "text": "De todo lo que se vende en la carnicería, comed, sin preguntar nada por causa de la conciencia;"
+          "text": "De todo lo que se vende en la carnicería, comed, sin preguntar nada por motivos de conciencia;"
         },
         {
           "v": 26,
-          "text": "Porque del Señor es la tierra y lo que la hinche."
+          "text": "porque del Señor es la tierra y su plenitud."
         },
         {
           "v": 27,
-          "text": "Y si algún infiel os llama, y queréis ir, de todo lo que se os pone delante comed, sin preguntar nada por causa de la conciencia."
+          "text": "Si algún incrédulo os invita, y queréis ir, de todo lo que se os ponga delante comed, sin preguntar nada por motivos de conciencia."
         },
         {
           "v": 28,
-          "text": "Mas si alguien os dijere: Esto fué sacrificado á los ídolos: no lo comáis, por causa de aquel que lo declaró, y por causa de la conciencia: porque del Señor es la tierra y lo que la hinche."
+          "text": "Mas si alguien os dijere: Esto fue sacrificado a los ídolos; no lo comáis, por causa de aquel que lo declaró, y por motivos de conciencia; porque del Señor es la tierra y su plenitud."
         },
         {
           "v": 29,
-          "text": "La conciencia, digo, no tuya, sino del otro. Pues ¿por qué ha de ser juzgada mi libertad por otra conciencia?"
+          "text": "La conciencia, digo, no la tuya, sino la del otro. Pues ¿por qué se ha de juzgar mi libertad por la conciencia de otro?"
         },
         {
           "v": 30,
-          "text": "Y si yo con agradecimiento participo, ¿por qué he de ser blasfemado por lo que doy gracias?"
+          "text": "Y si yo con agradecimiento participo, ¿por qué he de ser censurado por aquello de que doy gracias?"
         },
         {
           "v": 31,
-          "text": "Si pues coméis, ó bebéis, ó hacéis otra cosa, haced lo todo á gloria de Dios."
+          "text": "Si, pues, coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios."
         },
         {
           "v": 32,
-          "text": "Sed sin ofensa á Judíos, y á Gentiles, y á la iglesia de Dios;"
+          "text": "No seáis tropiezo ni a judíos, ni a gentiles, ni a la iglesia de Dios;"
         },
         {
           "v": 33,
-          "text": "Como también yo en todas las cosas complazco á todos, no procurando mi propio beneficio, sino el de muchos, para que sean salvos."
+          "text": "como también yo en todas las cosas agrado a todos, no procurando mi propio beneficio, sino el de muchos, para que sean salvos."
         }
       ]
     },
@@ -1006,139 +1004,139 @@
       "verses": [
         {
           "v": 1,
-          "text": "SED imitadores de mí, así como yo de Cristo."
+          "text": "Sed imitadores de mí, así como yo de Cristo."
         },
         {
           "v": 2,
-          "text": "Y os alabo, hermanos, que en todo os acordáis de mi, y retenéis las instrucciones mías, de la manera que os enseñé."
+          "text": "Os alabo, hermanos, porque en todo os acordáis de mí, y retenéis las instrucciones tal como os las entregué."
         },
         {
           "v": 3,
-          "text": "Mas quiero que sepáis, que Cristo es la cabeza de todo varón; y el varón es la cabeza de la mujer; y Dios la cabeza de Cristo."
+          "text": "Pero quiero que sepáis que Cristo es la cabeza de todo varón, y el varón es la cabeza de la mujer, y Dios la cabeza de Cristo."
         },
         {
           "v": 4,
-          "text": "Todo varón que ora ó profetiza cubierta la cabeza, afrenta su cabeza."
+          "text": "Todo varón que ora o profetiza con la cabeza cubierta, afrenta su cabeza."
         },
         {
           "v": 5,
-          "text": "Mas toda mujer que ora ó profetiza no cubierta su cabeza, afrenta su cabeza; porque lo mismo es que si se rayese."
+          "text": "Pero toda mujer que ora o profetiza con la cabeza descubierta, afrenta su cabeza; porque lo mismo es que si se hubiese rapado."
         },
         {
           "v": 6,
-          "text": "Porque si la mujer no se cubre, trasquílese también: y si es deshonesto á la mujer trasquilarse ó raerse, cúbrase."
+          "text": "Porque si la mujer no se cubre, que se corte también el cabello; y si le es vergonzoso a la mujer cortarse el cabello o raparse, que se cubra."
         },
         {
           "v": 7,
-          "text": "Porque el varón no ha de cubrir la cabeza, porque es imagen y gloria de Dios: mas la mujer es gloria del varón."
+          "text": "Porque el varón no debe cubrirse la cabeza, pues él es imagen y gloria de Dios; pero la mujer es gloria del varón."
         },
         {
           "v": 8,
-          "text": "Porque el varón no es de la mujer, sino la mujer del varón."
+          "text": "Porque el varón no procede de la mujer, sino la mujer del varón,"
         },
         {
           "v": 9,
-          "text": "Porque tampoco el varón fué criado por causa de la mujer, sino la mujer por causa del varón."
+          "text": "y tampoco el varón fue creado por causa de la mujer, sino la mujer por causa del varón."
         },
         {
           "v": 10,
-          "text": "Por lo cual, la mujer debe tener señal de potestad sobre su cabeza, por causa de los ángeles."
+          "text": "Por lo cual la mujer debe tener señal de autoridad sobre su cabeza, por causa de los ángeles."
         },
         {
           "v": 11,
-          "text": "Mas ni el varón sin la mujer, ni la mujer sin el varón, en el Señor."
+          "text": "Pero en el Señor, ni el varón es sin la mujer, ni la mujer sin el varón;"
         },
         {
           "v": 12,
-          "text": "Porque como la mujer es del varón, así también el varón es por la mujer: empero todo de Dios."
+          "text": "porque así como la mujer procede del varón, también el varón nace de la mujer; pero todo procede de Dios."
         },
         {
           "v": 13,
-          "text": "Juzgad vosotros mismos: ¿es honesto orar la mujer á Dios no cubierta?"
+          "text": "Juzgad vosotros mismos: ¿Es propio que la mujer ore a Dios sin cubrirse la cabeza?"
         },
         {
           "v": 14,
-          "text": "La misma naturaleza ¿no os enseña que al hombre sea deshonesto criar cabello?"
+          "text": "La naturaleza misma ¿no os enseña que al varón le es deshonroso dejarse crecer el cabello?"
         },
         {
           "v": 15,
-          "text": "Por el contrario, á la mujer criar el cabello le es honroso; porque en lugar de velo le es dado el cabello."
+          "text": "Por el contrario, a la mujer dejarse crecer el cabello le es honroso; porque en lugar de velo le es dado el cabello."
         },
         {
           "v": 16,
-          "text": "Con todo eso, si alguno parece ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios."
+          "text": "Con todo eso, si alguno quiere ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios."
         },
         {
           "v": 17,
-          "text": "Esto empero os denuncio, que no alabo, que no por mejor sino por peor os juntáis."
+          "text": "Pero al anunciaros esto que sigue, no os alabo; porque no os congregáis para lo mejor, sino para lo peor."
         },
         {
           "v": 18,
-          "text": "Porque lo primero, cuando os juntáis en la iglesia, oigo que hay entre vosotros disensiones; y en parte lo creo."
+          "text": "Pues en primer lugar, cuando os reunís como iglesia, oigo que hay entre vosotros divisiones; y en parte lo creo."
         },
         {
           "v": 19,
-          "text": "Porque preciso es que haya entre vosotros aun herejías, para que los que son probados se manifiesten entre vosotros."
+          "text": "Porque es preciso que entre vosotros haya disensiones, para que se hagan manifiestos entre vosotros los que son aprobados."
         },
         {
           "v": 20,
-          "text": "Cuando pues os juntáis en uno, esto no es comer la cena del Señor."
+          "text": "Cuando, pues, os reunís vosotros, esto no es comer la cena del Señor."
         },
         {
           "v": 21,
-          "text": "Porque cada uno toma antes para comer su propia cena; y el uno tiene hambre, y el otro está embriagado."
+          "text": "Porque al comer, cada uno se adelanta a tomar su propia cena; y uno tiene hambre, y otro se embriaga."
         },
         {
           "v": 22,
-          "text": "Pues qué, ¿no tenéis casas en que comáis y bebáis? ¿ó menospreciáis la iglesia de Dios, y avergonzáis á los que no tienen? ¿Qué os diré? ¿os alabaré? En esto no os alabo."
+          "text": "Pues qué, ¿no tenéis casas en que comáis y bebáis? ¿O menospreciáis la iglesia de Dios, y avergonzáis a los que no tienen nada? ¿Qué os diré? ¿Os alabaré? En esto no os alabo."
         },
         {
           "v": 23,
-          "text": "Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;"
+          "text": "Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fue entregado, tomó pan;"
         },
         {
           "v": 24,
-          "text": "Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí."
+          "text": "y habiendo dado gracias, lo partió, y dijo: Tomad, comed; esto es mi cuerpo que por vosotros es partido; haced esto en memoria de mí. "
         },
         {
           "v": 25,
-          "text": "Asimismo tomó también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí."
+          "text": "Asimismo tomó también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre; haced esto todas las veces que la bebiereis, en memoria de mí. "
         },
         {
           "v": 26,
-          "text": "Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga."
+          "text": "Así, pues, todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que él venga."
         },
         {
           "v": 27,
-          "text": "De manera que, cualquiera que comiere este pan ó bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor."
+          "text": "De manera que cualquiera que comiere este pan o bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor."
         },
         {
           "v": 28,
-          "text": "Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa."
+          "text": "Por tanto, pruébese cada uno a sí mismo, y coma así del pan, y beba de la copa."
         },
         {
           "v": 29,
-          "text": "Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor."
+          "text": "Porque el que come y bebe indignamente, sin discernir el cuerpo del Señor, juicio come y bebe para sí."
         },
         {
           "v": 30,
-          "text": "Por lo cual hay muchos enfermos y debilitados entre vosotros; y muchos duermen."
+          "text": "Por lo cual hay muchos enfermos y debilitados entre vosotros, y muchos duermen."
         },
         {
           "v": 31,
-          "text": "Que si nos examinásemos á nosotros mismos, cierto no seríamos juzgados."
+          "text": "Si, pues, nos examinásemos a nosotros mismos, no seríamos juzgados;"
         },
         {
           "v": 32,
-          "text": "Mas siendo juzgados, somos castigados del Señor, para que no seamos condenados con el mundo."
+          "text": "mas siendo juzgados, somos castigados por el Señor, para que no seamos condenados con el mundo."
         },
         {
           "v": 33,
-          "text": "Así, que, hermanos míos, cuando os juntáis á comer, esperaos unos á otros."
+          "text": "Así que, hermanos míos, cuando os reunís a comer, esperaos unos a otros."
         },
         {
           "v": 34,
-          "text": "Si alguno tuviere hambre, coma en su casa, porque no os juntéis para juicio. Las demás cosas ordenaré cuando llegare."
+          "text": "Si alguno tuviere hambre, coma en su casa, para que no os reunáis para juicio. Las demás cosas las pondré en orden cuando yo fuere."
         }
       ]
     },
@@ -1147,67 +1145,67 @@
       "verses": [
         {
           "v": 1,
-          "text": "Y ACERCA de los dones espirituales, no quiero, hermanos, que ignoréis."
+          "text": "No quiero, hermanos, que ignoréis acerca de los dones espirituales."
         },
         {
           "v": 2,
-          "text": "Sabéis que cuando erais Gentiles, ibais, como erais llevados, a los ídolos mudos."
+          "text": "Sabéis que cuando erais gentiles, se os extraviaba llevándoos, como se os llevaba, a los ídolos mudos."
         },
         {
           "v": 3,
-          "text": "Por tanto os hago saber, que nadie que hable por Espíritu de Dios, llama anatema á Jesús; y nadie puede llamar á Jesús Señor, sino por Espíritu Santo."
+          "text": "Por tanto, os hago saber que nadie que hable por el Espíritu de Dios llama anatema a Jesús; y nadie puede llamar a Jesús Señor, sino por el Espíritu Santo."
         },
         {
           "v": 4,
-          "text": "Empero hay repartimiento de dones; mas el mismo Espíritu es."
+          "text": "Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo."
         },
         {
           "v": 5,
-          "text": "Y hay repartimiento de ministerios; mas el mismo Señor es."
+          "text": "Y hay diversidad de ministerios, pero el Señor es el mismo."
         },
         {
           "v": 6,
-          "text": "Y hay repartimiento de operaciones; mas el mismo Dios es el que obra todas las cosas en todos."
+          "text": "Y hay diversidad de operaciones, pero Dios, que hace todas las cosas en todos, es el mismo."
         },
         {
           "v": 7,
-          "text": "Empero á cada uno le es dada manifestación del Espíritu para provecho."
+          "text": "Pero a cada uno le es dada la manifestación del Espíritu para provecho."
         },
         {
           "v": 8,
-          "text": "Porque á la verdad, á éste es dada por el Espíritu palabra de sabiduría; á otro, palabra de ciencia según el mismo Espíritu;"
+          "text": "Porque a éste es dada por el Espíritu palabra de sabiduría; a otro, palabra de ciencia según el mismo Espíritu;"
         },
         {
           "v": 9,
-          "text": "A otro, fe por el mismo Espíritu, y á otro, dones de sanidades por el mismo Espíritu;"
+          "text": "a otro, fe por el mismo Espíritu; y a otro, dones de sanidades por el mismo Espíritu."
         },
         {
           "v": 10,
-          "text": "A otro, operaciones de milagros, y á otro, profecía; y á otro, discreción de espíritus; y á otro, géneros de lenguas; y á otro, interpretación de lenguas."
+          "text": "A otro, el hacer milagros; a otro, profecía; a otro, discernimiento de espíritus; a otro, diversos géneros de lenguas; y a otro, interpretación de lenguas."
         },
         {
           "v": 11,
-          "text": "Mas todas estas cosas obra uno y el mismo Espíritu, repartiendo particularmente á cada uno como quiere."
+          "text": "Pero todas estas cosas las hace uno y el mismo Espíritu, repartiendo a cada uno en particular como él quiere."
         },
         {
           "v": 12,
-          "text": "Porque de la manera que el cuerpo es uno, y tiene muchos miembros, empero todos los miembros del cuerpo, siendo muchos, son un cuerpo, así también Cristo."
+          "text": "Porque así como el cuerpo es uno, y tiene muchos miembros, pero todos los miembros del cuerpo, siendo muchos, son un solo cuerpo, así también Cristo."
         },
         {
           "v": 13,
-          "text": "Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu."
+          "text": "Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu."
         },
         {
           "v": 14,
-          "text": "Pues ni tampoco el cuerpo es un miembro, sino muchos."
+          "text": "Además, el cuerpo no es un solo miembro, sino muchos."
         },
         {
           "v": 15,
-          "text": "Si dijere el pie: Porque no soy mano, no soy del cuerpo: ¿por eso no será del cuerpo?"
+          "text": "Si dijere el pie: Porque no soy mano, no soy del cuerpo, ¿por eso no será del cuerpo?"
         },
         {
           "v": 16,
-          "text": "Y si dijere la oreja: Porque no soy ojo, no soy del cuerpo: ¿por eso no será del cuerpo?"
+          "text": "Y si dijere la oreja: Porque no soy ojo, no soy del cuerpo, ¿por eso no será del cuerpo?"
         },
         {
           "v": 17,
@@ -1215,51 +1213,51 @@
         },
         {
           "v": 18,
-          "text": "Mas ahora Dios ha colocado los miembros cada uno de ellos en el cuerpo, como quiso."
+          "text": "Mas ahora Dios ha colocado los miembros cada uno de ellos en el cuerpo, como él quiso."
         },
         {
           "v": 19,
-          "text": "Que si todos fueran un miembro, ¿dónde estuviera el cuerpo?"
+          "text": "Porque si todos fueran un solo miembro, ¿dónde estaría el cuerpo?"
         },
         {
           "v": 20,
-          "text": "Mas ahora muchos miembros son á la verdad, empero un cuerpo."
+          "text": "Pero ahora son muchos los miembros, pero el cuerpo es uno solo."
         },
         {
           "v": 21,
-          "text": "Ni el ojo puede decir á la mano: No te he menester: ni asimismo la cabeza á los pies: No tengo necesidad de vosotros."
+          "text": "Ni el ojo puede decir a la mano: No te necesito, ni tampoco la cabeza a los pies: No tengo necesidad de vosotros."
         },
         {
           "v": 22,
-          "text": "Antes, mucho más los miembros del cuerpo que parecen más flacos, son necesarios;"
+          "text": "Antes bien los miembros del cuerpo que parecen más débiles, son los más necesarios;"
         },
         {
           "v": 23,
-          "text": "Y á aquellos del cuerpo que estimamos ser más viles, á éstos vestimos más honrosamente; y los que en nosotros son menos honestos, tienen más compostura."
+          "text": "y a aquellos del cuerpo que nos parecen menos dignos, a éstos vestimos más dignamente; y los que en nosotros son menos decorosos, se tratan con más decoro."
         },
         {
           "v": 24,
-          "text": "Porque los que en nosotros son más honestos, no tienen necesidad: mas Dios ordenó el cuerpo, dando más abundante honor al que le faltaba;"
+          "text": "Porque los que en nosotros son más decorosos, no tienen necesidad; pero Dios ordenó el cuerpo, dando más abundante honor al que le faltaba,"
         },
         {
           "v": 25,
-          "text": "Para que no haya desavenencia en el cuerpo, sino que los miembros todos se interesen los unos por los otros."
+          "text": "para que no haya desavenencia en el cuerpo, sino que los miembros todos se preocupen los unos por los otros."
         },
         {
           "v": 26,
-          "text": "Por manera que si un miembro padece, todos los miembros á una se duelen; y si un miembro es honrado, todos los miembros á una se gozan."
+          "text": "De manera que si un miembro padece, todos los miembros se duelen con él, y si un miembro recibe honra, todos los miembros con él se gozan."
         },
         {
           "v": 27,
-          "text": "Pues vosotros sois el cuerpo de Cristo, y miembros en parte."
+          "text": "Vosotros, pues, sois el cuerpo de Cristo, y miembros cada uno en particular."
         },
         {
           "v": 28,
-          "text": "Y á unos puso Dios en la iglesia, primeramente apóstoles, luego profetas, lo tercero doctores; luego facultades; luego dones de sanidades, ayudas, gobernaciones, géneros de lenguas."
+          "text": "Y a unos puso Dios en la iglesia, primeramente apóstoles, luego profetas, lo tercero maestros, luego los que hacen milagros, después los que sanan, los que ayudan, los que administran, los que tienen don de lenguas."
         },
         {
           "v": 29,
-          "text": "¿Son todos apóstoles? ¿son todos profetas? ¿todos doctores? ¿todos facultades?"
+          "text": "¿Son todos apóstoles? ¿son todos profetas? ¿todos maestros? ¿hacen todos milagros?"
         },
         {
           "v": 30,
@@ -1267,7 +1265,7 @@
         },
         {
           "v": 31,
-          "text": "Empero procurad los mejores dones; mas aun yo os muestro un camino más excelente."
+          "text": "Procurad, pues, los dones mejores. Mas yo os muestro un camino aun más excelente."
         }
       ]
     },
@@ -1276,27 +1274,27 @@
       "verses": [
         {
           "v": 1,
-          "text": "SI yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo á ser como metal que resuena, ó címbalo que retiñe."
+          "text": "Si yo hablase lenguas humanas y angélicas, y no tengo amor, vengo a ser como metal que resuena, o címbalo que retiñe."
         },
         {
           "v": 2,
-          "text": "Y si tuviese profecía, y entendiese todos los misterios y toda ciencia; y si tuviese toda la fe, de tal manera que traspasase los montes, y no tengo caridad, nada soy."
+          "text": "Y si tuviese profecía, y entendiese todos los misterios y toda ciencia, y si tuviese toda la fe, de tal manera que trasladase los montes, y no tengo amor, nada soy."
         },
         {
           "v": 3,
-          "text": "Y si repartiese toda mi hacienda para dar de comer a pobres, y si entregase mi cuerpo para ser quemado, y no tengo caridad, de nada me sirve."
+          "text": "Y si repartiese todos mis bienes para dar de comer a los pobres, y si entregase mi cuerpo para ser quemado, y no tengo amor, de nada me sirve."
         },
         {
           "v": 4,
-          "text": "La caridad es sufrida, es benigna; la caridad no tiene envidia, la caridad no hace sinrazón, no se ensancha;"
+          "text": "El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece;"
         },
         {
           "v": 5,
-          "text": "No es injuriosa, no busca lo suyo, no se irrita, no piensa el mal;"
+          "text": "no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor;"
         },
         {
           "v": 6,
-          "text": "No se huelga de la injusticia, mas se huelga de la verdad;"
+          "text": "no se goza de la injusticia, mas se goza de la verdad."
         },
         {
           "v": 7,
@@ -1304,7 +1302,7 @@
         },
         {
           "v": 8,
-          "text": "La caridad nunca deja de ser: mas las profecías se han de acabar, y cesarán las lenguas, y la ciencia ha de ser quitada;"
+          "text": "El amor nunca deja de ser; pero las profecías se acabarán, y cesarán las lenguas, y la ciencia acabará."
         },
         {
           "v": 9,
@@ -1312,19 +1310,19 @@
         },
         {
           "v": 10,
-          "text": "Mas cuando venga lo que es perfecto, entonces lo que es en parte será quitado."
+          "text": "mas cuando venga lo perfecto, entonces lo que es en parte se acabará."
         },
         {
           "v": 11,
-          "text": "Cuando yo era niño, hablaba como niño, pensaba como niño, juzgaba como niño, mas cuando ya fuí hombre hecho, dejé lo que era de niño."
+          "text": "Cuando yo era niño, hablaba como niño, pensaba como niño, juzgaba como niño; mas cuando ya fui hombre, dejé lo que era de niño."
         },
         {
           "v": 12,
-          "text": "Ahora vemos por espejo, en obscuridad; mas entonces veremos cara á cara: ahora conozco en parte; mas entonces conoceré como soy conocido."
+          "text": "Ahora vemos por espejo, oscuramente; mas entonces veremos cara a cara. Ahora conozco en parte; pero entonces conoceré como fui conocido."
         },
         {
           "v": 13,
-          "text": "Y ahora permanecen la fe, la esperanza, y la caridad, estas tres: empero la mayor de ellas es la caridad."
+          "text": "Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor."
         }
       ]
     },
@@ -1333,151 +1331,151 @@
       "verses": [
         {
           "v": 1,
-          "text": "SEGUID la caridad; y procurad los dones espirituales, mas sobre todo que profeticéis."
+          "text": "Seguid el amor; y procurad los dones espirituales, pero sobre todo que profeticéis."
         },
         {
           "v": 2,
-          "text": "Porque el que habla en lenguas, no habla á los hombres, sino á Dios; porque nadie le entiende, aunque en espíritu hable misterios."
+          "text": "Porque el que habla en lenguas no habla a los hombres, sino a Dios; pues nadie le entiende, aunque por el Espíritu habla misterios."
         },
         {
           "v": 3,
-          "text": "Mas el que profetiza, habla á los hombres para edificación, y exhortación, y consolación."
+          "text": "Pero el que profetiza habla a los hombres para edificación, exhortación y consolación."
         },
         {
           "v": 4,
-          "text": "El que habla lengua extraña, á sí mismo se edifica; mas el que porfetiza, edifica á la iglesia."
+          "text": "El que habla en lengua extraña, a sí mismo se edifica; pero el que profetiza, edifica a la iglesia."
         },
         {
           "v": 5,
-          "text": "Así que, quisiera que todos vosotros hablaseis lenguas, empero más que profetizaseis: porque mayor es el que profetiza que el que habla lenguas, si también no interpretare, para que la iglesia tome edificación."
+          "text": "Así que, quisiera que todos vosotros hablaseis en lenguas, pero más que profetizaseis; porque mayor es el que profetiza que el que habla en lenguas, a no ser que las interprete para que la iglesia reciba edificación."
         },
         {
           "v": 6,
-          "text": "Ahora pues, hermanos, si yo fuere á vosotros hablando lenguas, ¿qué os aprovecharé, si no os hablare, ó con revelación, ó con ciencia, ó con profecía, ó con doctrina?"
+          "text": "Ahora pues, hermanos, si yo voy a vosotros hablando en lenguas, ¿qué os aprovechará, si no os hablare con revelación, o con ciencia, o con profecía, o con doctrina?"
         },
         {
           "v": 7,
-          "text": "Ciertamente las cosas inanimadas que hacen sonidos, como la flauta ó la vihuela, si no dieren distinción de voces, ¿comó se sabrá lo que se tañe con la flauta, ó con la vihuela?"
+          "text": "Ciertamente las cosas inanimadas que producen sonidos, como la flauta o la cítara, si no dieren distinción de voces, ¿cómo se sabrá lo que se toca con la flauta o con la cítara?"
         },
         {
           "v": 8,
-          "text": "Y si la trompeta diere sonido incierto, ¿quién se apercibirá á la batalla?"
+          "text": "Y si la trompeta diere sonido incierto, ¿quién se preparará para la batalla?"
         },
         {
           "v": 9,
-          "text": "Así también vosotros, si por la lengua no diereis palabra bien significante, ¿cómo se entenderá lo que se dice? porque hablaréis al aire."
+          "text": "Así también vosotros, si por la lengua no diereis palabra bien comprensible, ¿cómo se entenderá lo que decís? Porque hablaréis al aire."
         },
         {
           "v": 10,
-          "text": "Tantos géneros de voces, por ejemplo, hay en el mundo, y nada hay mudo;"
+          "text": "Tantas clases de idiomas hay, seguramente, en el mundo, y ninguno de ellos carece de significado."
         },
         {
           "v": 11,
-          "text": "Mas si yo ignorare el valor de la voz, seré bárbaro al que habla, y el que habla será bárbaro para mí."
+          "text": "Pero si yo ignoro el valor de las palabras, seré como extranjero para el que habla, y el que habla será como extranjero para mí."
         },
         {
           "v": 12,
-          "text": "Así también vosotros; pues que anheláis espirituales dones, procurad ser excelentes para la edificación de la iglesia."
+          "text": "Así también vosotros; pues que anheláis dones espirituales, procurad abundar en ellos para edificación de la iglesia."
         },
         {
           "v": 13,
-          "text": "Por lo cual, el que habla lengua extraña, pida que la interprete."
+          "text": "Por lo cual, el que habla en lengua extraña, pida en oración poder interpretarla."
         },
         {
           "v": 14,
-          "text": "Porque si yo orare en lengua desconocida, mi espíritu ora; mas mi entendimiento es sin fruto."
+          "text": "Porque si yo oro en lengua desconocida, mi espíritu ora, pero mi entendimiento queda sin fruto."
         },
         {
           "v": 15,
-          "text": "¿Qué pues? Oraré con el espíritu, mas oraré también con entendimiento; cantaré con el espíritu, mas cantaré también con entendimiento."
+          "text": "¿Qué, pues? Oraré con el espíritu, pero oraré también con el entendimiento; cantaré con el espíritu, pero cantaré también con el entendimiento."
         },
         {
           "v": 16,
-          "text": "Porque si bendijeres con el espíritu, el que ocupa lugar de un mero particular, ¿cómo dirá amén á tu acción de gracias? pues no sabe lo que has dicho."
+          "text": "Porque si bendices sólo con el espíritu, el que ocupa lugar de simple oyente, ¿cómo dirá el Amén a tu acción de gracias? pues no sabe lo que has dicho."
         },
         {
           "v": 17,
-          "text": "Porque tú, á la verdad, bien haces gracias; mas el otro no es edificado."
+          "text": "Porque tú, a la verdad, bien das gracias; pero el otro no es edificado."
         },
         {
           "v": 18,
-          "text": "Doy gracias á Dios que hablo lenguas más que todos vosotros:"
+          "text": "Doy gracias a Dios que hablo en lenguas más que todos vosotros;"
         },
         {
           "v": 19,
-          "text": "Pero en la iglesia más quiero hablar cinco palabras con mi sentido, para que enseñe también á los otros, que diez mil palabras en lengua desconocida."
+          "text": "pero en la iglesia prefiero hablar cinco palabras con mi entendimiento, para enseñar también a otros, que diez mil palabras en lengua desconocida."
         },
         {
           "v": 20,
-          "text": "Hermanos, no seáis niños en el sentido, sino sed niños en la malicia: empero perfectos en el sentido."
+          "text": "Hermanos, no seáis niños en el modo de pensar, sino sed niños en la malicia, pero maduros en el modo de pensar."
         },
         {
           "v": 21,
-          "text": "En la ley está escrito: En otras lenguas y en otros labios hablaré á este pueblo; y ni aun así me oirán, dice el Señor."
+          "text": "En la ley está escrito: En otras lenguas y con otros labios hablaré a este pueblo; y ni aun así me oirán, dice el Señor."
         },
         {
           "v": 22,
-          "text": "Así que, las lenguas por señal son, no á los fieles, sino á los infieles: mas la profecía, no á los infieles, sino á los fieles."
+          "text": "Así que, las lenguas son por señal, no a los creyentes, sino a los incrédulos; pero la profecía, no a los incrédulos, sino a los creyentes."
         },
         {
           "v": 23,
-          "text": "De manera que, si toda la iglesia se juntare en uno, y todos hablan lenguas, y entran indoctos ó infieles, ¿no dirán que estáis locos?"
+          "text": "Si, pues, toda la iglesia se reúne en un solo lugar, y todos hablan en lenguas, y entran indoctos o incrédulos, ¿no dirán que estáis locos?"
         },
         {
           "v": 24,
-          "text": "Mas si todos profetizan, y entra algún infiel ó indocto, de todos es convencido, de todos es juzgado;"
+          "text": "Pero si todos profetizan, y entra algún incrédulo o indocto, por todos es convencido, por todos es juzgado;"
         },
         {
           "v": 25,
-          "text": "Lo oculto de su corazón se hace manifiesto: y así, postrándose sobre el rostro, adorará á Dios, declarando que verdaderamente Dios está en vosotros."
+          "text": "lo oculto de su corazón se hace manifiesto; y así, postrándose sobre el rostro, adorará a Dios, declarando que verdaderamente Dios está entre vosotros."
         },
         {
           "v": 26,
-          "text": "¿Qué hay pues, hermanos? Cuando os juntáis, cada uno de vosotros tiene salmo, tiene doctrina, tiene lengua, tiene revelación, tiene interpretación: hagáse todo para edificación."
+          "text": "¿Qué hay, pues, hermanos? Cuando os reunís, cada uno de vosotros tiene salmo, tiene doctrina, tiene lengua, tiene revelación, tiene interpretación. Hágase todo para edificación."
         },
         {
           "v": 27,
-          "text": "Si hablare alguno en lengua extraña, sea esto por dos, ó á lo más tres, y por turno; mas uno interprete."
+          "text": "Si habla alguno en lengua extraña, sea esto por dos, o a lo más tres, y por turno; y uno interprete."
         },
         {
           "v": 28,
-          "text": "Y si no hubiere intérprete, calle en la iglesia, y hable á sí mismo y á Dios."
+          "text": "Y si no hay intérprete, calle en la iglesia, y hable para sí mismo y para Dios."
         },
         {
           "v": 29,
-          "text": "Asimismo, los profetas hablen dos ó tres, y los demás juzguen."
+          "text": "Asimismo, los profetas hablen dos o tres, y los demás juzguen."
         },
         {
           "v": 30,
-          "text": "Y si á otro que estuviere sentado, fuere revelado, calle el primero."
+          "text": "Y si algo le fuere revelado a otro que estuviere sentado, calle el primero."
         },
         {
           "v": 31,
-          "text": "Porque podéis todos profetizar uno por uno, para que todos aprendan, y todos sean exhortados."
+          "text": "Porque podéis profetizar todos uno por uno, para que todos aprendan, y todos sean exhortados."
         },
         {
           "v": 32,
-          "text": "Y los espíritus de los que profetizaren, sujétense á los profetas;"
+          "text": "Y los espíritus de los profetas están sujetos a los profetas;"
         },
         {
           "v": 33,
-          "text": "Porque Dios no es Dios de disensión, sino de paz; como en todas las iglesias de los santos."
+          "text": "pues Dios no es Dios de confusión, sino de paz. Como en todas las iglesias de los santos,"
         },
         {
           "v": 34,
-          "text": "Vuestras mujeres callen en las congregaciones; porque no les es permitido hablar, sino que estén sujetas, como también la ley dice."
+          "text": "vuestras mujeres callen en las congregaciones; porque no les es permitido hablar, sino que estén sujetas, como también la ley lo dice."
         },
         {
           "v": 35,
-          "text": "Y si quieren aprender alguna cosa, pregunten en casa á sus maridos; porque deshonesta cosa es hablar una mujer en la congregación."
+          "text": "Y si quieren aprender algo, pregunten en casa a sus maridos; porque es indecoroso que una mujer hable en la congregación."
         },
         {
           "v": 36,
-          "text": "Qué, ¿ha salido de vosotros la palabra de Dios? ¿ó á vosotros solos ha llegado?"
+          "text": "¿Acaso ha salido de vosotros la palabra de Dios, o sólo a vosotros ha llegado?"
         },
         {
           "v": 37,
-          "text": "Si alguno á su parecer, es profeta, ó espiritual, reconozca lo que os escribo, porque son mandamientos del Señor."
+          "text": "Si alguno se cree profeta, o espiritual, reconozca que lo que os escribo son mandamientos del Señor."
         },
         {
           "v": 38,
@@ -1485,11 +1483,11 @@
         },
         {
           "v": 39,
-          "text": "Así que, hermanos, procurad profetizar; y no impidáis el hablar lenguas."
+          "text": "Así que, hermanos, procurad profetizar, y no impidáis el hablar lenguas;"
         },
         {
           "v": 40,
-          "text": "Empero hagáse todo decentemente y con orden."
+          "text": "pero hágase todo decentemente y con orden."
         }
       ]
     },
@@ -1498,55 +1496,55 @@
       "verses": [
         {
           "v": 1,
-          "text": "ADEMAS os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis;"
+          "text": "Además os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis;"
         },
         {
           "v": 2,
-          "text": "Por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano."
+          "text": "por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano."
         },
         {
           "v": 3,
-          "text": "Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo fué muerto por nuestros pecados conforme á las Escrituras;"
+          "text": "Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras;"
         },
         {
           "v": 4,
-          "text": "Y que fué sepultado, y que resucitó al tercer día, conforme á las Escrituras;"
+          "text": "y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras;"
         },
         {
           "v": 5,
-          "text": "Y que apareció á Cefas, y después á los doce."
+          "text": "y que apareció a Cefas, y después a los doce."
         },
         {
           "v": 6,
-          "text": "Después apareció á más de quinientos hermanos juntos; de los cuales muchos viven aún, y otros son muertos."
+          "text": "Después apareció a más de quinientos hermanos a la vez, de los cuales muchos viven aún, y otros ya duermen."
         },
         {
           "v": 7,
-          "text": "Después apareció á Jacobo; después á todos los apóstoles."
+          "text": "Después apareció a Jacobo; después a todos los apóstoles;"
         },
         {
           "v": 8,
-          "text": "Y el postrero de todos, como á un abortivo, me apareció á mí."
+          "text": "y al último de todos, como a un abortivo, me apareció a mí."
         },
         {
           "v": 9,
-          "text": "Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí la iglesia de Dios."
+          "text": "Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la iglesia de Dios."
         },
         {
           "v": 10,
-          "text": "Empero por la gracia de Dios soy lo que soy: y su gracia no ha sido en vano para conmigo; antes he trabajado más que todos ellos: pero no yo, sino la gracia de Dios que fué conmigo."
+          "text": "Pero por la gracia de Dios soy lo que soy; y su gracia no ha sido en vano para conmigo, antes he trabajado más que todos ellos; pero no yo, sino la gracia de Dios conmigo."
         },
         {
           "v": 11,
-          "text": "Porque, ó sea yo ó sean ellos, así predicamos, y así habéis creído."
+          "text": "Porque o sea yo o sean ellos, así predicamos, y así habéis creído."
         },
         {
           "v": 12,
-          "text": "Y si Cristo es predicado que resucitó de los muertos ¿cómo dicen algunos entre vosotros que no hay resurrección de muertos?"
+          "text": "Pero si se predica de Cristo que resucitó de los muertos, ¿cómo dicen algunos entre vosotros que no hay resurrección de muertos?"
         },
         {
           "v": 13,
-          "text": "Porque si no hay resurrección de muertos, Cristo tampoco resucitó:"
+          "text": "Porque si no hay resurrección de muertos, tampoco Cristo resucitó."
         },
         {
           "v": 14,
@@ -1554,23 +1552,23 @@
         },
         {
           "v": 15,
-          "text": "Y aun somos hallados falsos testigos de Dios; porque hemos testificado de Dios que él haya levantado á Cristo; al cual no levantó, si en verdad los muertos no resucitan."
+          "text": "Y somos hallados falsos testigos de Dios; porque hemos testificado de Dios que él resucitó a Cristo, al cual no resucitó, si en verdad los muertos no resucitan."
         },
         {
           "v": 16,
-          "text": "Porque si los muertos no resucitan, tampoco Cristo resucitó."
+          "text": "Porque si los muertos no resucitan, tampoco Cristo resucitó;"
         },
         {
           "v": 17,
-          "text": "Y si Cristo no resucitó, vuestra fe es vana; aun estáis en vuestros pecados."
+          "text": "y si Cristo no resucitó, vuestra fe es vana; aún estáis en vuestros pecados."
         },
         {
           "v": 18,
-          "text": "Entonces también los que durmieron en Cristo son perdidos."
+          "text": "Entonces también los que durmieron en Cristo perecieron."
         },
         {
           "v": 19,
-          "text": "Si en esta vida solamente esperamos en Cristo, los más miserables somos de todos los hombres."
+          "text": "Si en esta vida solamente esperamos en Cristo, somos los más dignos de conmiseración de todos los hombres."
         },
         {
           "v": 20,
@@ -1582,99 +1580,99 @@
         },
         {
           "v": 22,
-          "text": "Porque así como en Adam todos mueren, así también en Cristo todos serán vivificados."
+          "text": "Porque así como en Adán todos mueren, también en Cristo todos serán vivificados."
         },
         {
           "v": 23,
-          "text": "Mas cada uno en su orden: Cristo las primicias; luego los que son de Cristo, en su venida."
+          "text": "Pero cada uno en su debido orden: Cristo, las primicias; luego los que son de Cristo, en su venida."
         },
         {
           "v": 24,
-          "text": "Luego el fin; cuando entregará el reino á Dios y al Padre, cuando habrá quitado todo imperio, y toda potencia y potestad."
+          "text": "Luego el fin, cuando entregue el reino al Dios y Padre, cuando haya suprimido todo dominio, toda autoridad y potencia."
         },
         {
           "v": 25,
-          "text": "Porque es menester que él reine, hasta poner á todos sus enemigos debajo de sus pies."
+          "text": "Porque preciso es que él reine hasta que haya puesto a todos sus enemigos debajo de sus pies."
         },
         {
           "v": 26,
-          "text": "Y el postrer enemigo que será deshecho, será la muerte."
+          "text": "Y el postrer enemigo que será destruido es la muerte."
         },
         {
           "v": 27,
-          "text": "Porque todas las cosas sujetó debajo de sus pies. Y cuando dice: Todas las cosas son sujetadas á él, claro está exceptuado aquel que sujetó á él todas las cosas."
+          "text": "Porque todas las cosas las sujetó debajo de sus pies. Y cuando dice que todas las cosas han sido sujetadas a él, claramente se exceptúa aquel que sujetó a él todas las cosas."
         },
         {
           "v": 28,
-          "text": "Mas luego que todas las cosas le fueren sujetas, entonces también el mismo Hijo se sujetará al que le sujetó á él todas las cosas, para que Dios sea todas las cosas en todos."
+          "text": "Pero luego que todas las cosas le estén sujetas, entonces también el Hijo mismo se sujetará al que le sujetó a él todas las cosas, para que Dios sea todo en todos."
         },
         {
           "v": 29,
-          "text": "De otro modo, ¿qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan? ¿Por qué pues se bautizan por los muertos?"
+          "text": "De otro modo, ¿qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan? ¿Por qué, pues, se bautizan por los muertos?"
         },
         {
           "v": 30,
-          "text": "¿Y por qué nosotros peligramos á toda hora?"
+          "text": "¿Y por qué nosotros peligramos a toda hora?"
         },
         {
           "v": 31,
-          "text": "Sí, por la gloria que en orden á vosotros tengo en Cristo Jesús Señor nuestro, cada día muero."
+          "text": "Os aseguro, hermanos, por la gloria que de vosotros tengo en nuestro Señor Jesucristo, que cada día muero."
         },
         {
           "v": 32,
-          "text": "Si como hombre batallé en Efeso contra las bestias, ¿qué me aprovecha? Si los muertos no resucitan, comamos y bebamos, que mañana moriremos."
+          "text": "Si como hombre batallé en Efeso contra fieras, ¿qué me aprovecha? Si los muertos no resucitan, comamos y bebamos, porque mañana moriremos."
         },
         {
           "v": 33,
-          "text": "No erréis: las malas conversaciones corrompen las buenas costumbres."
+          "text": "No erréis; las malas conversaciones corrompen las buenas costumbres."
         },
         {
           "v": 34,
-          "text": "Velad debidamente, y no pequéis; porque algunos no conocen á Dios: para vergüenza vuestra hablo."
+          "text": "Velad debidamente, y no pequéis; porque algunos no conocen a Dios; para vergüenza vuestra lo digo."
         },
         {
           "v": 35,
-          "text": "Mas dirá alguno: ¿Cómo resucitarán los muertos? ¿Con qué cuerpo vendrán?"
+          "text": "Pero dirá alguno: ¿Cómo resucitarán los muertos? ¿Con qué cuerpo vendrán?"
         },
         {
           "v": 36,
-          "text": "Necio, lo que tú siembras no se vivifica, si no muriere antes."
+          "text": "Necio, lo que tú siembras no se vivifica, si no muere antes."
         },
         {
           "v": 37,
-          "text": "Y lo que siembras, no siembras el cuerpo que ha de salir, sino el grano desnudo, acaso de trigo, ó de otro grano:"
+          "text": "Y lo que siembras no es el cuerpo que ha de salir, sino el grano desnudo, ya sea de trigo o de otro grano;"
         },
         {
           "v": 38,
-          "text": "Mas Dios le da el cuerpo como quiso, y á cada simiente su propio cuerpo."
+          "text": "pero Dios le da el cuerpo como él quiso, y a cada semilla su propio cuerpo."
         },
         {
           "v": 39,
-          "text": "Toda carne no es la misma carne; mas una carne ciertamente es la de los hombres, y otra carne la de los animales, y otra la de los peces, y otra la de las aves."
+          "text": "No toda carne es la misma carne, sino que una carne es la de los hombres, otra carne la de las bestias, otra la de los peces, y otra la de las aves."
         },
         {
           "v": 40,
-          "text": "Y cuerpos hay celestiales, y cuerpos terrestres; mas ciertamente una es la gloria de los celestiales, y otra la de los terrestres:"
+          "text": "Y hay cuerpos celestiales, y cuerpos terrenales; pero una es la gloria de los celestiales, y otra la de los terrenales."
         },
         {
           "v": 41,
-          "text": "Otra es la gloria del sol, y otra la gloria de la luna, y otra la gloria de las estrellas: porque una estrella es diferente de otra en gloria."
+          "text": "Una es la gloria del sol, otra la gloria de la luna, y otra la gloria de las estrellas, pues una estrella es diferente de otra en gloria."
         },
         {
           "v": 42,
-          "text": "Así también es la resurrección de los muertos. Se siembra en corrupción se levantará en incorrupción;"
+          "text": "Así también es la resurrección de los muertos. Se siembra en corrupción, resucitará en incorrupción."
         },
         {
           "v": 43,
-          "text": "Se siembra en vergüenza, se levantará con gloria; se siembra en flaqueza, se levantará con potencia;"
+          "text": "Se siembra en deshonra, resucitará en gloria; se siembra en debilidad, resucitará en poder."
         },
         {
           "v": 44,
-          "text": "Se siembra cuerpo animal, resucitará espiritual cuerpo. Hay cuerpo animal, y hay cuerpo espiritual."
+          "text": "Se siembra cuerpo animal, resucitará cuerpo espiritual. Hay cuerpo animal, y hay cuerpo espiritual."
         },
         {
           "v": 45,
-          "text": "Así también está escrito: Fué hecho el primer hombre Adam en ánima viviente; el postrer Adam en espíritu vivificante."
+          "text": "Así también está escrito: Fue hecho el primer hombre Adán alma viviente; el postrer Adán, espíritu vivificante."
         },
         {
           "v": 46,
@@ -1682,51 +1680,51 @@
         },
         {
           "v": 47,
-          "text": "El primer hombre, es de la tierra, terreno: el segundo hombre que es el Señor, es del cielo."
+          "text": "El primer hombre es de la tierra, terrenal; el segundo hombre, que es el Señor, es del cielo."
         },
         {
           "v": 48,
-          "text": "Cual el terreno, tales también los terrenos; y cual el celestial, tales también los celestiales."
+          "text": "Cual el terrenal, tales también los terrenales; y cual el celestial, tales también los celestiales."
         },
         {
           "v": 49,
-          "text": "Y como trajimos la imagen del terreno, traeremos también la imagen del celestial."
+          "text": "Y así como hemos traído la imagen del terrenal, traeremos también la imagen del celestial."
         },
         {
           "v": 50,
-          "text": "Esto empero digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios; ni la corrupción hereda la incorrupción."
+          "text": "Pero esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios, ni la corrupción hereda la incorrupción."
         },
         {
           "v": 51,
-          "text": "He aquí, os digo un misterio: Todos ciertamente no dormiremos, mas todos seremos transformados."
+          "text": "He aquí, os digo un misterio: No todos dormiremos; pero todos seremos transformados,"
         },
         {
           "v": 52,
-          "text": "En un momento, en un abrir de ojo, á la final trompeta; porque será tocada la trompeta, y los muertos serán levantados sin corrupción, y nosotros seremos transformados."
+          "text": "en un momento, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados."
         },
         {
           "v": 53,
-          "text": "Porque es menester que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad."
+          "text": "Porque es necesario que esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad."
         },
         {
           "v": 54,
-          "text": "Y cuando esto corruptible fuere vestido de incorrupción, y esto mortal fuere vestido de inmortalidad, entonces se efectuará la palabra que está escrita: Sorbida es la muerte con victoria."
+          "text": "Y cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: Sorbida es la muerte en victoria."
         },
         {
           "v": 55,
-          "text": "¿Dónde está, oh muerte, tu aguijón? ¿dónde, oh sepulcro, tu victoria?"
+          "text": "¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?"
         },
         {
           "v": 56,
-          "text": "Ya que el aguijón de la muerte es el pecado, y la potencia del pecado, la ley."
+          "text": "ya que el aguijón de la muerte es el pecado, y el poder del pecado, la ley."
         },
         {
           "v": 57,
-          "text": "Mas á Dios gracias, que nos da la victoria por el Señor nuestro Jesucristo."
+          "text": "Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo."
         },
         {
           "v": 58,
-          "text": "Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es vano."
+          "text": "Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano."
         }
       ]
     },
@@ -1735,51 +1733,51 @@
       "verses": [
         {
           "v": 1,
-          "text": "CUANTO á la colecta para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia."
+          "text": "En cuanto a la ofrenda para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia."
         },
         {
           "v": 2,
-          "text": "Cada primer día de la semana cada uno de vosotros aparte en su casa, guardando lo que por la bondad de Dios pudiere; para que cuando yo llegare, no se hagan entonces colectas."
+          "text": "Cada primer día de la semana cada uno de vosotros ponga aparte algo, según haya prosperado, guardándolo, para que cuando yo llegue no se recojan entonces ofrendas."
         },
         {
           "v": 3,
-          "text": "Y cuando habré llegado, los que aprobareis por cartas, á éstos enviaré que lleven vuestro beneficio á Jerusalem."
+          "text": "Y cuando haya llegado, a quienes hubiereis designado por carta, a éstos enviaré para que lleven vuestro donativo a Jerusalén."
         },
         {
           "v": 4,
-          "text": "Y si fuere digno el negocio de que yo también vaya, irán conmigo."
+          "text": "Y si fuere propio que yo también vaya, irán conmigo."
         },
         {
           "v": 5,
-          "text": "Y á vosotros iré, cuando hubiere pasado por Macedonia, porque por Macedonia tengo de pasar."
+          "text": "Iré a vosotros, cuando haya pasado por Macedonia, pues por Macedonia tengo que pasar."
         },
         {
           "v": 6,
-          "text": "Y podrá ser que me quede con vosotros, ó invernaré también, para que vosotros me llevéis á donde hubiere de ir."
+          "text": "Y podrá ser que me quede con vosotros, o aun pase el invierno, para que vosotros me encaminéis a donde haya de ir."
         },
         {
           "v": 7,
-          "text": "Porque no os quiero ahora ver de paso; porque espero estar con vosotros algún tiempo, si el Señor lo permitiere."
+          "text": "Porque no quiero veros ahora de paso, pues espero estar con vosotros algún tiempo, si el Señor lo permite."
         },
         {
           "v": 8,
-          "text": "Empero estaré en Efeso hasta Pentecostés;"
+          "text": "Pero estaré en Efeso hasta Pentecostés;"
         },
         {
           "v": 9,
-          "text": "Porque se me ha abierto puerta grande y eficaz, y muchos son los adversarios."
+          "text": "porque se me ha abierto puerta grande y eficaz, y muchos son los adversarios."
         },
         {
           "v": 10,
-          "text": "Y si llegare Timoteo, mirad que esté con vosotros seguramente; porque la obra del Señor hace también como yo."
+          "text": "Y si llega Timoteo, mirad que esté con vosotros con tranquilidad, porque él hace la obra del Señor así como yo."
         },
         {
           "v": 11,
-          "text": "Por tanto, nadie le tenga en poco; antes, llevadlo en paz, para que venga á mí: porque lo espero con los hermanos."
+          "text": "Por tanto, nadie le tenga en poco, sino encaminadle en paz, para que venga a mí, porque le espero con los hermanos."
         },
         {
           "v": 12,
-          "text": "Acerca del hermano Apolos, mucho le he rogado que fuese á vosotros con los hermanos; mas en ninguna manera tuvo voluntad de ir por ahora; pero irá cuando tuviere oportunidad."
+          "text": "Acerca del hermano Apolos, mucho le rogué que fuese a vosotros con los hermanos, mas de ninguna manera tuvo voluntad de ir por ahora; pero irá cuando tenga oportunidad."
         },
         {
           "v": 13,
@@ -1787,47 +1785,47 @@
         },
         {
           "v": 14,
-          "text": "Todas vuestras cosas sean hechas con caridad."
+          "text": "Todas vuestras cosas sean hechas con amor."
         },
         {
           "v": 15,
-          "text": "Y os ruego, hermanos, (ya sabéis que la casa de Estéfanas es las primicias de Acaya, y que se han dedicado al ministerio de los santos,)"
+          "text": "Hermanos, ya sabéis que la familia de Estéfanas es las primicias de Acaya, y que ellos se han dedicado al servicio de los santos."
         },
         {
           "v": 16,
-          "text": "Que vosotros os sujetéis á los tales, y á todos los que ayudan y trabajan."
+          "text": "Os ruego que os sujetéis a personas como ellos, y a todos los que ayudan y trabajan."
         },
         {
           "v": 17,
-          "text": "Huélgome de la venida de Estéfanas y de Fortunato y de Achâico: porque éstos suplieron lo que á vosotros faltaba."
+          "text": "Me regocijo con la venida de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido vuestra ausencia."
         },
         {
           "v": 18,
-          "text": "Porque recrearon mi espíritu y el vuestro: reconoced pues á los tales."
+          "text": "Porque confortaron mi espíritu y el vuestro; reconoced, pues, a tales personas."
         },
         {
           "v": 19,
-          "text": "Las iglesias de Asia os saludan. Os saludan mucho en el Señor Aquila y Priscila, con la iglesia que está en su casa."
+          "text": "Las iglesias de Asia os saludan. Aquila y Priscila, con la iglesia que está en su casa, os saludan mucho en el Señor."
         },
         {
           "v": 20,
-          "text": "Os saludan todos los hermanos. Saludaos los unos á los otros con ósculo santo."
+          "text": "Os saludan todos los hermanos. Saludaos los unos a los otros con ósculo santo."
         },
         {
           "v": 21,
-          "text": "La salutación de mí, Pablo, de mi mano."
+          "text": "Yo, Pablo, os escribo esta salutación de mi propia mano."
         },
         {
           "v": 22,
-          "text": "El que no amare al Señor Jesucristo, sea anatema. Maranatha."
+          "text": "El que no amare al Señor Jesucristo, sea anatema. El Señor viene."
         },
         {
           "v": 23,
-          "text": "La gracia del Señor Jesucristo sea con vosotros."
+          "text": "La gracia del Señor Jesucristo esté con vosotros."
         },
         {
           "v": 24,
-          "text": "Mi amor en Cristo Jesús sea con todos vosotros. Amén."
+          "text": "Mi amor en Cristo Jesús esté con todos vosotros. Amén. "
         }
       ]
     }

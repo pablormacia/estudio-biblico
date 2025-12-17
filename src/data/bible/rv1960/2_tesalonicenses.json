@@ -1,131 +1,129 @@
 {
-  "bookNumber": 53,
   "book": "2 Tesalonicenses",
-  "abbrev": "2Te",
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "v": 1,
-          "text": "PABLO, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es en Dios nuestro Padre y en el Señor Jesucristo:"
+          "text": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:"
         },
         {
           "v": 2,
-          "text": "Gracia y paz á vosotros de Dios nuestro Padre y del Señor Jesucristo."
+          "text": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo."
         },
         {
           "v": 3,
-          "text": "Debemos siempre dar gracias á Dios de vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo, y la caridad de cada uno de todos vosotros abunda entre vosotros;"
+          "text": "Debemos siempre dar gracias a Dios por vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo, y el amor de todos y cada uno de vosotros abunda para con los demás;"
         },
         {
           "v": 4,
-          "text": "Tanto, que nosotros mismos nos gloriamos de vosotros en las iglesias de Dios, de vuestra paciencia y en todas vuestras persecuciones y tribulaciones que sufrís:"
+          "text": "tanto, que nosotros mismos nos gloriamos de vosotros en las iglesias de Dios, por vuestra paciencia y fe en todas vuestras persecuciones y tribulaciones que soportáis."
         },
         {
           "v": 5,
-          "text": "Una demostración del justo juicio de Dios, para que seáis tenidos por dignos del reino de Dios, por el cual asimismo padecéis."
+          "text": "Esto es demostración del justo juicio de Dios, para que seáis tenidos por dignos del reino de Dios, por el cual asimismo padecéis."
         },
         {
           "v": 6,
-          "text": "Porque es justo para con Dios pagar con tribulación á los que os atribulan;"
+          "text": "Porque es justo delante de Dios pagar con tribulación a los que os atribulan,"
         },
         {
           "v": 7,
-          "text": "Y á vosotros, que sois atribulados, dar reposo con nosotros, cuando se manifestará el Señor Jesús del cielo con los ángeles de su potencia,"
+          "text": "y a vosotros que sois atribulados, daros reposo con nosotros, cuando se manifieste el Señor Jesús desde el cielo con los ángeles de su poder,"
         },
         {
           "v": 8,
-          "text": "En llama de fuego, para dar el pago á los que no conocieron á Dios, ni obedecen al evangelio de nuestro Señor Jesucristo;"
+          "text": "en llama de fuego, para dar retribución a los que no conocieron a Dios, ni obedecen al evangelio de nuestro Señor Jesucristo;"
         },
         {
           "v": 9,
-          "text": "Los cuales serán castigados de eterna perdición por la presencia del Señor, y por la gloria de su potencia,"
+          "text": "los cuales sufrirán pena de eterna perdición, excluidos de la presencia del Señor y de la gloria de su poder,"
         },
         {
           "v": 10,
-          "text": "Cuando viniere para ser glorificado en sus santos, y á hacerse admirable en aquel día en todos los que creyeron: (por cuanto nuestro testimonio ha sido creído entre vosotros.)"
+          "text": "cuando venga en aquel día para ser glorificado en sus santos y ser admirado en todos los que creyeron (por cuanto nuestro testimonio ha sido creído entre vosotros)."
         },
         {
           "v": 11,
-          "text": "Por lo cual, asimismo oramos siempre por vosotros, que nuestro Dios os tenga por dignos de su vocación, e hincha de bondad todo buen intento, y toda obra de fe con potencia,"
+          "text": "Por lo cual asimismo oramos siempre por vosotros, para que nuestro Dios os tenga por dignos de su llamamiento, y cumpla todo propósito de bondad y toda obra de fe con su poder,"
         },
         {
           "v": 12,
-          "text": "Para que el nombre, de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro Dios y del Señor Jesucristo."
+          "text": "para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro Dios y del Señor Jesucristo."
         }
       ]
     },
     {
-      "chapter": 2,
+      "chapter": 1,
       "verses": [
         {
           "v": 1,
-          "text": "EMPERO os rogamos, hermanos, cuanto á la venida de nuestro Señor Jesucristo, y nuestro recogimiento á él,"
+          "text": "Pero con respecto a la venida de nuestro Señor Jesucristo, y nuestra reunión con él, os rogamos, hermanos,"
         },
         {
           "v": 2,
-          "text": "Que no os mováis fácilmente de vuestro sentimiento, ni os conturbéis ni por espíritu, ni por palabra, ni por carta como nuestra, como que el día del Señor esté cerca."
+          "text": "que no os dejéis mover fácilmente de vuestro modo de pensar, ni os conturbéis, ni por espíritu, ni por palabra, ni por carta como si fuera nuestra, en el sentido de que el día del Señor está cerca."
         },
         {
           "v": 3,
-          "text": "No os engañe nadie en ninguna manera; porque no vendrá sin que venga antes la apostasía, y se manifieste el hombre de pecado, el hijo de perdición,"
+          "text": "Nadie os engañe en ninguna manera; porque no vendrá sin que antes venga la apostasía, y se manifieste el hombre de pecado, el hijo de perdición,"
         },
         {
           "v": 4,
-          "text": "Oponiéndose, y levantándose contra todo lo que se llama Dios, ó que se adora; tanto que se asiente en el templo de Dios como Dios, haciéndose parecer Dios."
+          "text": "el cual se opone y se levanta contra todo lo que se llama Dios o es objeto de culto; tanto que se sienta en el templo de Dios como Dios, haciéndose pasar por Dios."
         },
         {
           "v": 5,
-          "text": "¿No os acordáis que cuando estaba todavía con vosotros, os decía esto?"
+          "text": "¿No os acordáis que cuando yo estaba todavía con vosotros, os decía esto?"
         },
         {
           "v": 6,
-          "text": "Y ahora vosotros sabéis lo que impide, para que á su tiempo se manifieste."
+          "text": "Y ahora vosotros sabéis lo que lo detiene, a fin de que a su debido tiempo se manifieste."
         },
         {
           "v": 7,
-          "text": "Porque ya está obrando el misterio de iniquidad: solamente espera hasta que sea quitado de en medio el que ahora impide;"
+          "text": "Porque ya está en acción el misterio de la iniquidad; sólo que hay quien al presente lo detiene, hasta que él a su vez sea quitado de en medio."
         },
         {
           "v": 8,
-          "text": "Y entonces será manifestado aquel inicuo, al cual el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida;"
+          "text": "Y entonces se manifestará aquel inicuo, a quien el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida;"
         },
         {
           "v": 9,
-          "text": "A aquel inicuo, cuyo advenimiento es según operación de Satanás, con grande potencia, y señales, y milagros mentirosos,"
+          "text": "inicuo cuyo advenimiento es por obra de Satanás, con gran poder y señales y prodigios mentirosos,"
         },
         {
           "v": 10,
-          "text": "Y con todo engaño de iniquidad en los que perecen; por cuanto no recibieron el amor de la verdad para ser salvos."
+          "text": "y con todo engaño de iniquidad para los que se pierden, por cuanto no recibieron el amor de la verdad para ser salvos."
         },
         {
           "v": 11,
-          "text": "Por tanto, pues, les envía Dios operación de error, para que crean á la mentira;"
+          "text": "Por esto Dios les envía un poder engañoso, para que crean la mentira,"
         },
         {
           "v": 12,
-          "text": "Para que sean condenados todos los que no creyeron á la verdad, antes consintieron á la iniquidad."
+          "text": "a fin de que sean condenados todos los que no creyeron a la verdad, sino que se complacieron en la injusticia."
         },
         {
           "v": 13,
-          "text": "Mas nosotros debemos dar siempre gracias á Dios por vosotros, hermanos amados del Señor, de que Dios os haya escogido desde el principio para salud, por la santificación del Espíritu y fe de la verdad:"
+          "text": "Pero nosotros debemos dar siempre gracias a Dios respecto a vosotros, hermanos amados por el Señor, de que Dios os haya escogido desde el principio para salvación, mediante la santificación por el Espíritu y la fe en la verdad,"
         },
         {
           "v": 14,
-          "text": "A lo cual os llamó por nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo."
+          "text": "a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo."
         },
         {
           "v": 15,
-          "text": "Así que, hermanos, estad firmes, y retened la doctrina que habéis aprendido, sea por palabra, ó por carta nuestra."
+          "text": "Así que, hermanos, estad firmes, y retened la doctrina que habéis aprendido, sea por palabra, o por carta nuestra."
         },
         {
           "v": 16,
-          "text": "Y el mismo Señor nuestro Jesucristo, y Dios y Padre nuestro, el cual nos amó, y nos dió consolación eterna, y buena esperanza por gracia,"
+          "text": "Y el mismo Jesucristo Señor nuestro, y Dios nuestro Padre, el cual nos amó y nos dio consolación eterna y buena esperanza por gracia,"
         },
         {
           "v": 17,
-          "text": "Consuele vuestros corazones, y os confirme en toda buena palabra y obra."
+          "text": "conforte vuestros corazones, y os confirme en toda buena palabra y obra."
         }
       ]
     },
@@ -134,51 +132,51 @@
       "verses": [
         {
           "v": 1,
-          "text": "RESTA, hermanos, que oréis por nosotros, que la palabra del Señor corra y sea glorificada así como entre vosotros:"
+          "text": "Por lo demás, hermanos, orad por nosotros, para que la palabra del Señor corra y sea glorificada, así como lo fue entre vosotros,"
         },
         {
           "v": 2,
-          "text": "Y que seamos librados de hombres importunos y malos; porque no es de todos la fe."
+          "text": "y para que seamos librados de hombres perversos y malos; porque no es de todos la fe."
         },
         {
           "v": 3,
-          "text": "Mas fiel es el Señor, que os confirmará y guardará del mal."
+          "text": "Pero fiel es el Señor, que os afirmará y guardará del mal."
         },
         {
           "v": 4,
-          "text": "Y tenemos confianza de vosotros en el Señor, que hacéis y haréis lo que os hemos mandado."
+          "text": "Y tenemos confianza respecto a vosotros en el Señor, en que hacéis y haréis lo que os hemos mandado."
         },
         {
           "v": 5,
-          "text": "Y el Señor enderece vuestros corazones en el amor de Dios, y en la paciencia de Cristo."
+          "text": "Y el Señor encamine vuestros corazones al amor de Dios, y a la paciencia de Cristo."
         },
         {
           "v": 6,
-          "text": "Empero os denunciamos, hermanos, en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que anduviere fuera de orden, y no conforme á la doctrina que recibieron de nosotros:"
+          "text": "Pero os ordenamos, hermanos, en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que ande desordenadamente, y no según la enseñanza que recibisteis de nosotros."
         },
         {
           "v": 7,
-          "text": "Porque vosotros mismos sabéis de qué manera debéis imitarnos: porque no anduvimos desordenadamente entre vosotros,"
+          "text": "Porque vosotros mismos sabéis de qué manera debéis imitarnos; pues nosotros no anduvimos desordenadamente entre vosotros,"
         },
         {
           "v": 8,
-          "text": "Ni comimos el pan de ninguno de balde; antes, obrando con trabajo y fatiga de noche y de día, por no ser gravosos á ninguno de vosotros;"
+          "text": "ni comimos de balde el pan de nadie, sino que trabajamos con afán y fatiga día y noche, para no ser gravosos a ninguno de vosotros;"
         },
         {
           "v": 9,
-          "text": "No porque no tuviésemos potestad, sino por daros en nosotros un dechado, para que nos imitaseis."
+          "text": "no porque no tuviésemos derecho, sino por daros nosotros mismos un ejemplo para que nos imitaseis."
         },
         {
           "v": 10,
-          "text": "Porque aun estando con vosotros, os denunciábamos esto: Que si alguno no quisiere trabajar, tampoco coma."
+          "text": "Porque también cuando estábamos con vosotros, os ordenábamos esto: Si alguno no quiere trabajar, tampoco coma."
         },
         {
           "v": 11,
-          "text": "Porque oímos que andan algunos entre vosotros fuera de orden, no trabajando en nada, sino ocupados en curiosear."
+          "text": "Porque oímos que algunos de entre vosotros andan desordenadamente, no trabajando en nada, sino entremetiéndose en lo ajeno."
         },
         {
           "v": 12,
-          "text": "Y á los tales requerimos y rogamos por nuestro Señor Jesucristo, que, trabajando con reposo, coman su pan."
+          "text": "A los tales mandamos y exhortamos por nuestro Señor Jesucristo, que trabajando sosegadamente, coman su propio pan."
         },
         {
           "v": 13,
@@ -186,11 +184,11 @@
         },
         {
           "v": 14,
-          "text": "Y si alguno no obedeciere á nuestra palabra por carta, notad al tal, y no os juntéis con él, para que se avergüence."
+          "text": "Si alguno no obedece a lo que decimos por medio de esta carta, a ése señaladlo, y no os juntéis con él, para que se avergüence."
         },
         {
           "v": 15,
-          "text": "Mas no lo tengáis como á enemigo, sino amonestadle como á hermano."
+          "text": "Mas no lo tengáis por enemigo, sino amonestadle como a hermano."
         },
         {
           "v": 16,
@@ -198,11 +196,11 @@
         },
         {
           "v": 17,
-          "text": "Salud de mi mano, Pablo, que es mi signo en toda carta mía: así escribo."
+          "text": "La salutación es de mi propia mano, de Pablo, que es el signo en toda carta mía; así escribo."
         },
         {
           "v": 18,
-          "text": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. Epístola á los Tesalonicenses fué escrita de Atenas."
+          "text": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. "
         }
       ]
     }

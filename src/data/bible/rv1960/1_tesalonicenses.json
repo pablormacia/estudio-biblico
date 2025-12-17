@@ -1,50 +1,48 @@
 {
-  "bookNumber": 52,
   "book": "1 Tesalonicenses",
-  "abbrev": "1Te",
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "v": 1,
-          "text": "PABLO, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es en Dios Padre y en el Señor Jesucristo: Gracia y paz á vosotros de Dios nuestro Padre y del Señor Jesucristo."
+          "text": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia y paz sean a vosotros, de Dios nuestro Padre y del Señor Jesucristo."
         },
         {
           "v": 2,
-          "text": "Damos siempre gracias á Dios por todos vosotros, haciendo memoria de vosotros en nuestras oraciones;"
+          "text": "Damos siempre gracias a Dios por todos vosotros, haciendo memoria de vosotros en nuestras oraciones,"
         },
         {
           "v": 3,
-          "text": "Sin cesar acordándonos delante del Dios y Padre nuestro de la obra de vuestra fe, y del trabajo de amor, y de la tolerancia de la esperanza del Señor nuestro Jesucristo:"
+          "text": "acordándonos sin cesar delante del Dios y Padre nuestro de la obra de vuestra fe, del trabajo de vuestro amor y de vuestra constancia en la esperanza en nuestro Señor Jesucristo."
         },
         {
           "v": 4,
-          "text": "Sabiendo, hermanos amados de Dios, vuestra elección:"
+          "text": "Porque conocemos, hermanos amados de Dios, vuestra elección;"
         },
         {
           "v": 5,
-          "text": "Por cuanto nuestro evangelio no fué á vosotros en palabra solamente, mas también en potencia, y en Espíritu Santo, y en gran plenitud; como sabéis cuáles fuimos entre vosotros por amor de vosotros."
+          "text": "pues nuestro evangelio no llegó a vosotros en palabras solamente, sino también en poder, en el Espíritu Santo y en plena certidumbre, como bien sabéis cuáles fuimos entre vosotros por amor de vosotros."
         },
         {
           "v": 6,
-          "text": "Y vosotros fuisteis hechos imitadores de nosotros, y del Señor, recibiendo la palabra con mucha tribulación, con gozo del Espíritu Santo:"
+          "text": "Y vosotros vinisteis a ser imitadores de nosotros y del Señor, recibiendo la palabra en medio de gran tribulación, con gozo del Espíritu Santo,"
         },
         {
           "v": 7,
-          "text": "En tal manera que habéis sido ejemplo á todos los que han creído en Macedonia y en Acaya."
+          "text": "de tal manera que habéis sido ejemplo a todos los de Macedonia y de Acaya que han creído."
         },
         {
           "v": 8,
-          "text": "Porque de vosotros ha sido divulgada la palabra del Señor no sólo en Macedonia y en Acaya, mas aun en todo lugar vuestra fe en Dios se ha extendido; de modo que no tenemos necesidad de hablar nada."
+          "text": "Porque partiendo de vosotros ha sido divulgada la palabra del Señor, no sólo en Macedonia y Acaya, sino que también en todo lugar vuestra fe en Dios se ha extendido, de modo que nosotros no tenemos necesidad de hablar nada;"
         },
         {
           "v": 9,
-          "text": "Porque ellos cuentan de nosotros cuál entrada tuvimos á vosotros; y cómo os convertisteis de los ídolos á Dios, para servir al Dios vivo y verdadero."
+          "text": "porque ellos mismos cuentan de nosotros la manera en que nos recibisteis, y cómo os convertisteis de los ídolos a Dios, para servir al Dios vivo y verdadero,"
         },
         {
           "v": 10,
-          "text": "Y esperar á su Hijo de los cielos, al cual resucitó de los muertos; á Jesús, el cual nos libró de la ira que ha de venir."
+          "text": "y esperar de los cielos a su Hijo, al cual resucitó de los muertos, a Jesús, quien nos libra de la ira venidera."
         }
       ]
     },
@@ -53,83 +51,83 @@
       "verses": [
         {
           "v": 1,
-          "text": "PORQUE, hermanos, vosotros mismos sabéis que nuestra entrada á vosotros no fué vana:"
+          "text": "Porque vosotros mismos sabéis, hermanos, que nuestra visita a vosotros no resultó vana;"
         },
         {
           "v": 2,
-          "text": "Pues aun habiendo padecido antes, y sido afrentados en Filipos, como sabéis, tuvimos denuedo en Dios nuestro para anunciaros el evangelio de Dios con gran combate."
+          "text": "pues habiendo antes padecido y sido ultrajados en Filipos, como sabéis, tuvimos denuedo en nuestro Dios para anunciaros el evangelio de Dios en medio de gran oposición."
         },
         {
           "v": 3,
-          "text": "Porque nuestra exhortación no fué de error, ni de inmundicia, ni por engaño;"
+          "text": "Porque nuestra exhortación no procedió de error ni de impureza, ni fue por engaño,"
         },
         {
           "v": 4,
-          "text": "Sino según fuimos aprobados de Dios para que se nos encargase el evangelio, así hablamos; no como los que agradan á los hombres, sino á Dios, el cual prueba nuestros corazones."
+          "text": "sino que según fuimos aprobados por Dios para que se nos confiase el evangelio, así hablamos; no como para agradar a los hombres, sino a Dios, que prueba nuestros corazones."
         },
         {
           "v": 5,
-          "text": "Porque nunca fuimos lisonjeros en la palabra, como sabéis, ni tocados de avaricia; Dios es testigo;"
+          "text": "Porque nunca usamos de palabras lisonjeras, como sabéis, ni encubrimos avaricia; Dios es testigo;"
         },
         {
           "v": 6,
-          "text": "Ni buscamos de los hombres gloria, ni de vosotros, ni de otros, aunque podíamos seros carga como apóstoles de Cristo."
+          "text": "ni buscamos gloria de los hombres; ni de vosotros, ni de otros, aunque podíamos seros carga como apóstoles de Cristo."
         },
         {
           "v": 7,
-          "text": "Antes fuimos blandos entre vosotros como la que cría, que regala á sus hijos:"
+          "text": "Antes fuimos tiernos entre vosotros, como la nodriza que cuida con ternura a sus propios hijos."
         },
         {
           "v": 8,
-          "text": "Tan amadores de vosotros, que quisiéramos entregaros no sólo el evangelio de Dios, mas aun nuestras propias almas; porque nos erais carísimos."
+          "text": "Tan grande es nuestro afecto por vosotros, que hubiéramos querido entregaros no sólo el evangelio de Dios, sino también nuestras propias vidas; porque habéis llegado a sernos muy queridos."
         },
         {
           "v": 9,
-          "text": "Porque ya, hermanos, os acordáis de nuestro trabajo y fatiga: que trabajando de noche y de día por no ser gravosos á ninguno de vosotros, os predicamos el evangelio de Dios."
+          "text": "Porque os acordáis, hermanos, de nuestro trabajo y fatiga; cómo trabajando de noche y de día, para no ser gravosos a ninguno de vosotros, os predicamos el evangelio de Dios."
         },
         {
           "v": 10,
-          "text": "Vosotros sois testigos, y Dios, de cuán santa y justa é irreprensiblemente nos condujimos con vosotros que creísteis:"
+          "text": "Vosotros sois testigos, y Dios también, de cuán santa, justa e irreprensiblemente nos comportamos con vosotros los creyentes;"
         },
         {
           "v": 11,
-          "text": "Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos,"
+          "text": "así como también sabéis de qué modo, como el padre a sus hijos, exhortábamos y consolábamos a cada uno de vosotros,"
         },
         {
           "v": 12,
-          "text": "Y os protestábamos que anduvieseis como es digno de Dios, que os llamó á su reino y gloria."
+          "text": "y os encargábamos que anduvieseis como es digno de Dios, que os llamó a su reino y gloria."
         },
         {
           "v": 13,
-          "text": "Por lo cual, también nosotros damos gracias á Dios sin cesar, de que habiendo recibido la palabra de Dios que oísteis de nosotros, recibisteis no palabra de hombres, sino según es en verdad, la palabra de Dios, el cual obra en vosotros los que creísteis."
+          "text": "Por lo cual también nosotros sin cesar damos gracias a Dios, de que cuando recibisteis la palabra de Dios que oísteis de nosotros, la recibisteis no como palabra de hombres, sino según es en verdad, la palabra de Dios, la cual actúa en vosotros los creyentes."
         },
         {
           "v": 14,
-          "text": "Porque vosotros, hermanos, habéis sido imitadores de las iglesias de Dios en Cristo Jesús que están en Judea; pues habéis padecido también vosotros las mismas cosas de los de vuestra propia nación, como también ellos de los Judíos;"
+          "text": "Porque vosotros, hermanos, vinisteis a ser imitadores de las iglesias de Dios en Cristo Jesús que están en Judea; pues habéis padecido de los de vuestra propia naciónlas mismas cosas que ellas padecieron de los judíos,"
         },
         {
           "v": 15,
-          "text": "Los cuales aun mataron al Señor Jesús y á sus propios profetas, y á nosotros nos han perseguido; y no agradan á Dios, y se oponen á todos los hombres;"
+          "text": "los cuales mataron al Señor Jesús y a sus propios profetas, y a nosotros nos expulsaron; y no agradan a Dios, y se oponen a todos los hombres,"
         },
         {
           "v": 16,
-          "text": "Prohibiéndonos hablar á los Gentiles, á fin de que se salven, para henchir la medida de sus pecados siempre: pues vino sobre ellos la ira hasta el extremo."
+          "text": "impidiéndonos hablar a los gentiles para que éstos se salven; así colman ellos siempre la medida de sus pecados, pues vino sobre ellos la ira hasta el extremo."
         },
         {
           "v": 17,
-          "text": "Mas nosotros, hermanos, privados de vosotros por un poco de tiempo, de vista, no de corazón, tanto más procuramos con mucho deseo ver vuestro rostro."
+          "text": "Pero nosotros, hermanos, separados de vosotros por un poco de tiempo, de vista pero no de corazón, tanto más procuramos con mucho deseo ver vuestro rostro;"
         },
         {
           "v": 18,
-          "text": "Por lo cual quisimos ir á vosotros, yo Pablo á la verdad, una vez y otra; mas Satanás nos embarazó."
+          "text": "por lo cual quisimos ir a vosotros, yo Pablo ciertamente una y otra vez; pero Satanás nos estorbó."
         },
         {
           "v": 19,
-          "text": "Porque ¿cuál es nuestra esperanza, ó gozo, ó corona de que me gloríe? ¿No sois vosotros, delante de nuestro Señor Jesucristo en su venida?"
+          "text": "Porque ¿cuál es nuestra esperanza, o gozo, o corona de que me gloríe? ¿No lo sois vosotros, delante de nuestro Señor Jesucristo, en su venida?"
         },
         {
           "v": 20,
-          "text": "Que vosotros sois nuestra gloria y gozo."
+          "text": "Vosotros sois nuestra gloria y gozo."
         }
       ]
     },
@@ -138,55 +136,55 @@
       "verses": [
         {
           "v": 1,
-          "text": "POR lo cual, no pudiendo esperar más, acordamos quedarnos solos en Atenas,"
+          "text": "Por lo cual, no pudiendo soportarlo más, acordamos quedarnos solos en Atenas,"
         },
         {
           "v": 2,
-          "text": "Y enviamos á Timoteo, nuestro hermano, y ministro de Dios, y colaborador nuestro en el evangelio de Cristo, á confirmaros y exhortaros en vuestra fe,"
+          "text": "y enviamos a Timoteo nuestro hermano, servidor de Dios y colaborador nuestro en el evangelio de Cristo, para confirmaros y exhortaros respecto a vuestra fe,"
         },
         {
           "v": 3,
-          "text": "Para que nadie se conmueva por estas tribulaciones; porque vosotros sabéis que nosotros somos puestos para esto."
+          "text": "a fin de que nadie se inquiete por estas tribulaciones; porque vosotros mismos sabéis que para esto estamos puestos."
         },
         {
           "v": 4,
-          "text": "Que aun estando con vosotros, os predecíamos que habíamos de pasar tribulaciones, como ha acontecido y sabéis."
+          "text": "Porque también estando con vosotros, os predecíamos que íbamos a pasar tribulaciones, como ha acontecido y sabéis."
         },
         {
           "v": 5,
-          "text": "Por lo cual, también yo, no esperando más, he enviado á reconocer vuestra fe, no sea que os haya tentado el tentador, y que nuestro trabajo haya sido en vano."
+          "text": "Por lo cual también yo, no pudiendo soportar más, envié para informarme de vuestra fe, no sea que os hubiese tentado el tentador, y que nuestro trabajo resultase en vano."
         },
         {
           "v": 6,
-          "text": "Empero volviendo de vosotros á nosotros Timoteo, y haciéndonos saber vuestra fe y caridad, y que siempre tenéis buena memoria de nosotros, deseando vernos, como también nosotros á vosotros,"
+          "text": "Pero cuando Timoteo volvió de vosotros a nosotros, y nos dio buenas noticias de vuestra fe y amor, y que siempre nos recordáis con cariño, deseando vernos, como también nosotros a vosotros,"
         },
         {
           "v": 7,
-          "text": "En ello, hermanos, recibimos consolación de vosotros en toda nuestra necesidad y aflicción por causa de vuestra fe:"
+          "text": "por ello, hermanos, en medio de toda nuestra necesidad y aflicción fuimos consolados de vosotros por medio de vuestra fe;"
         },
         {
           "v": 8,
-          "text": "Porque ahora vivimos, si vosotros estáis firmes en el Señor."
+          "text": "porque ahora vivimos, si vosotros estáis firmes en el Señor."
         },
         {
           "v": 9,
-          "text": "Por lo cual, ¿qué hacimiento de gracias podremos dar á Dios por vosotros, por todo el gozo con que nos gozamos á causa de vosotros delante de nuestro Dios,"
+          "text": "Por lo cual, ¿qué acción de gracias podremos dar a Dios por vosotros, por todo el gozo con que nos gozamos a causa de vosotros delante de nuestro Dios,"
         },
         {
           "v": 10,
-          "text": "Orando de noche y de día con grande instancia, que veamos vuestro rostro, y que cumplamos lo que falta á vuestra fe?"
+          "text": "orando de noche y de día con gran insistencia, para que veamos vuestro rostro, y completemos lo que falte a vuestra fe?"
         },
         {
           "v": 11,
-          "text": "Mas el mismo Dios y Padre nuestro, y el Señor nuestro Jesucristo, encamine nuestro viaje á vosotros."
+          "text": "Mas el mismo Dios y Padre nuestro, y nuestro Señor Jesucristo, dirija nuestro camino a vosotros."
         },
         {
           "v": 12,
-          "text": "Y á vosotros multiplique el Señor, y haga abundar el amor entre vosotros, y para con todos, como es también de nosotros para con vosotros;"
+          "text": "Y el Señor os haga crecer y abundar en amor unos para con otros y para con todos, como también lo hacemos nosotros para con vosotros,"
         },
         {
           "v": 13,
-          "text": "Para que sean confirmados vuestros corazones en santidad, irreprensibles delante de Dios y nuestro Padre, para la venida de nuestro Señor Jesucristo con todos sus santos."
+          "text": "para que sean afirmados vuestros corazones, irreprensibles en santidad delante de Dios nuestro Padre, en la venida de nuestro Señor Jesucristo con todos sus santos."
         }
       ]
     },
@@ -195,75 +193,75 @@
       "verses": [
         {
           "v": 1,
-          "text": "RESTA pues, hermanos, que os roguemos y exhortemos en el Señor Jesús, que de la manera que fuisteis enseñados de nosotros de cómo os conviene andar, y agradar á Dios, así vayáis creciendo."
+          "text": "Por lo demás, hermanos, os rogamos y exhortamos en el Señor Jesús, que de la manera que aprendisteis de nosotros cómo os conviene conduciros y agradar a Dios, así abundéis más y más."
         },
         {
           "v": 2,
-          "text": "Porque ya sabéis qué mandamientos os dimos por el Señor Jesús."
+          "text": "Porque ya sabéis qué instrucciones os dimos por el Señor Jesús;"
         },
         {
           "v": 3,
-          "text": "Porque la voluntad de Dios es vuestra santificación: que os apartéis de fornicación;"
+          "text": "pues la voluntad de Dios es vuestra santificación; que os apartéis de fornicación;"
         },
         {
           "v": 4,
-          "text": "Que cada uno de vosotros sepa tener su vaso en santificación y honor;"
+          "text": "que cada uno de vosotros sepa tener su propia esposa en santidad y honor;"
         },
         {
           "v": 5,
-          "text": "No con afecto de concupiscencia, como los Gentiles que no conocen á Dios:"
+          "text": "no en pasión de concupiscencia, como los gentiles que no conocen a Dios;"
         },
         {
           "v": 6,
-          "text": "Que ninguno oprima, ni engañe en nada á su hermano: porque el Señor es vengador de todo esto, como ya os hemos dicho y protestado."
+          "text": "que ninguno agravie ni engañe en nada a su hermano; porque el Señor es vengador de todo esto, como ya os hemos dicho y testificado."
         },
         {
           "v": 7,
-          "text": "Porque no nos ha llamado Dios á inmundicia, sino á santificación."
+          "text": "Pues no nos ha llamado Dios a inmundicia, sino a santificación."
         },
         {
           "v": 8,
-          "text": "Así que, el que menosprecia, no menosprecia á hombre, sino á Dios, el cual también nos dió su Espíritu Santo."
+          "text": "Así que, el que desecha esto, no desecha a hombre, sino a Dios, que también nos dio su Espíritu Santo."
         },
         {
           "v": 9,
-          "text": "Mas acerca de la caridad fraterna no habéis menester que os escriba: porque vosotros mismos habéis aprendido de Dios que os améis los unos á los otros;"
+          "text": "Pero acerca del amor fraternal no tenéis necesidad de que os escriba, porque vosotros mismos habéis aprendido de Dios que os améis unos a otros;"
         },
         {
           "v": 10,
-          "text": "Y también lo hacéis así con todos los hermanos que están por toda Macedonia. Empero os rogamos, hermanos, que abundéis más;"
+          "text": "y también lo hacéis así con todos los hermanos que están por toda Macedonia. Pero os rogamos, hermanos, que abundéis en ello más y más;"
         },
         {
           "v": 11,
-          "text": "Y que procuréis tener quietud, y hacer vuestros negocios, y obréis de vuestras manos de la manera que os hemos mandado;"
+          "text": "y que procuréis tener tranquilidad, y ocuparos en vuestros negocios, y trabajar con vuestras manos de la manera que os hemos mandado,"
         },
         {
           "v": 12,
-          "text": "A fin de que andéis honestamente para con los extraños, y no necesitéis de nada."
+          "text": "a fin de que os conduzcáis honradamente para con los de afuera, y no tengáis necesidad de nada."
         },
         {
           "v": 13,
-          "text": "Tampoco, hermanos, queremos que ignoréis acerca de los que duermen, que no os entristezcáis como los otros que no tienen esperanza."
+          "text": "Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza."
         },
         {
           "v": 14,
-          "text": "Porque si creemos que Jesús murió y resucitó, así también traerá Dios con él á los que durmieron en Jesús."
+          "text": "Porque si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él."
         },
         {
           "v": 15,
-          "text": "Por lo cual, os decimos esto en palabra del Señor: que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no seremos delanteros á los que durmieron."
+          "text": "Por lo cual os decimos esto en palabra del Señor: que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no precederemos a los que durmieron."
         },
         {
           "v": 16,
-          "text": "Porque el mismo Señor con aclamación, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero:"
+          "text": "Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero."
         },
         {
           "v": 17,
-          "text": "Luego nosotros, los que vivimos, los que quedamos, juntamente con ellos seremos arrebatados en las nubes á recibir al Señor en el aire, y así estaremos siempre con el Señor."
+          "text": "Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor."
         },
         {
           "v": 18,
-          "text": "Por tanto, consolaos los unos á los otros en estas palabras."
+          "text": "Por tanto, alentaos los unos a los otros con estas palabras."
         }
       ]
     },
@@ -272,63 +270,63 @@
       "verses": [
         {
           "v": 1,
-          "text": "EMPERO acerca de los tiempos y de los momentos, no tenéis, hermanos, necesidad de que yo os escriba:"
+          "text": "Pero acerca de los tiempos y de las ocasiones, no tenéis necesidad, hermanos, de que yo os escriba."
         },
         {
           "v": 2,
-          "text": "Porque vosotros sabéis bien, que el día del Señor vendrá así como ladrón de noche,"
+          "text": "Porque vosotros sabéis perfectamente que el día del Señor vendrá así como ladrón en la noche;"
         },
         {
           "v": 3,
-          "text": "Que cuando dirán, Paz y seguridad, entonces vendrá sobre ellos destrucción de repente, como los dolores á la mujer preñada; y no escaparán."
+          "text": "que cuando digan: Paz y seguridad, entonces vendrá sobre ellos destrucción repentina, como los dolores a la mujer encinta, y no escaparán."
         },
         {
           "v": 4,
-          "text": "Mas vosotros, hermanos, no estáis en tinieblas, para que aquel día os sobrecoja como ladrón;"
+          "text": "Mas vosotros, hermanos, no estáis en tinieblas, para que aquel día os sorprenda como ladrón."
         },
         {
           "v": 5,
-          "text": "Porque todos vosotros sois hijos de luz, é hijos del día; no somos de la noche, ni de las tinieblas."
+          "text": "Porque todos vosotros sois hijos de luz e hijos del día; no somos de la noche ni de las tinieblas."
         },
         {
           "v": 6,
-          "text": "Por tanto, no durmamos como los demás; antes velemos y seamos sobrios."
+          "text": "Por tanto, no durmamos como los demás, sino velemos y seamos sobrios."
         },
         {
           "v": 7,
-          "text": "Porque los que duermen, de noche duermen; y los que están borrachos, de noche están borrachos."
+          "text": "Pues los que duermen, de noche duermen, y los que se embriagan, de noche se embriagan."
         },
         {
           "v": 8,
-          "text": "Mas nosotros, que somos del día, estemos sobrios, vestidos de cota de fe y de caridad, y la esperanza de salud por yelmo."
+          "text": "Pero nosotros, que somos del día, seamos sobrios, habiéndonos vestido con la coraza de fe y de amor, y con la esperanza de salvación como yelmo."
         },
         {
           "v": 9,
-          "text": "Porque no nos ha puesto Dios para ira, sino para alcanzar salud por nuestro Señor Jesucristo;"
+          "text": "Porque no nos ha puesto Dios para ira, sino para alcanzar salvación por medio de nuestro Señor Jesucristo,"
         },
         {
           "v": 10,
-          "text": "El cual murió por nosotros, para que ó que velemos, ó que durmamos, vivamos juntamente con él."
+          "text": "quien murió por nosotros para que ya sea que velemos, o que durmamos, vivamos juntamente con él."
         },
         {
           "v": 11,
-          "text": "Por lo cual, consolaos los unos á los otros, y edificaos los unos á los otros, así como lo hacéis."
+          "text": "Por lo cual, animaos unos a otros, y edificaos unos a otros, así como lo hacéis."
         },
         {
           "v": 12,
-          "text": "Y os rogamos, hermanos, que reconozcáis á los que trabajan entre vosotros, y os presiden en el Señor, y os amonestan:"
+          "text": "Os rogamos, hermanos, que reconozcáis a los que trabajan entre vosotros, y os presiden en el Señor, y os amonestan;"
         },
         {
           "v": 13,
-          "text": "Y que los tengáis en mucha estima por amor de su obra. Tened paz los unos con los otros."
+          "text": "y que los tengáis en mucha estima y amor por causa de su obra. Tened paz entre vosotros."
         },
         {
           "v": 14,
-          "text": "También os rogamos, hermanos, que amonestéis á los que andan desordenadamente, que consoléis á los de poco ánimo, que soportéis á los flacos, que seáis sufridos para con todos."
+          "text": "También os rogamos, hermanos, que amonestéis a los ociosos, que alentéis a los de poco ánimo, que sostengáis a los débiles, que seáis pacientes para con todos."
         },
         {
           "v": 15,
-          "text": "Mirad que ninguno dé á otro mal por mal; antes seguid lo bueno siempre los unos para con los otros, y para con todos."
+          "text": "Mirad que ninguno pague a otro mal por mal; antes seguid siempre lo bueno unos para con otros, y para con todos."
         },
         {
           "v": 16,
@@ -340,11 +338,11 @@
         },
         {
           "v": 18,
-          "text": "Dad gracias en todo; porque esta es la voluntad de Dios para con vosotros en Cristo Jesús."
+          "text": "Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús."
         },
         {
           "v": 19,
-          "text": "No apaguéis el Espíritu."
+          "text": "No apaguéis al Espíritu."
         },
         {
           "v": 20,
@@ -356,15 +354,15 @@
         },
         {
           "v": 22,
-          "text": "Apartaos de toda especie de mal."
+          "text": "Absteneos de toda especie de mal."
         },
         {
           "v": 23,
-          "text": "Y el Dios de paz os santifique en todo; para que vuestro espíritu y alma y cuerpo sea guardado entero sin reprensión para la venida de nuestro Señor Jesucristo."
+          "text": "Y el mismo Dios de paz os santifique por completo; y todo vuestro ser, espíritu, alma y cuerpo, sea guardado irreprensible para la venida de nuestro Señor Jesucristo."
         },
         {
           "v": 24,
-          "text": "Fiel es el que os ha llamado; el cual también lo hará."
+          "text": "Fiel es el que os llama, el cual también lo hará."
         },
         {
           "v": 25,
@@ -372,15 +370,15 @@
         },
         {
           "v": 26,
-          "text": "Saludad á todos los hermanos en ósculo santo."
+          "text": "Saludad a todos los hermanos con ósculo santo."
         },
         {
           "v": 27,
-          "text": "Conjúroos por el Señor, que esta carta sea leída á todos los santos hermanos."
+          "text": "Os conjuro por el Señor, que esta carta se lea a todos los santos hermanos."
         },
         {
           "v": 28,
-          "text": "La gracia de nuestro Señor Jesucristo sea con vosotros. Amén. espístola á los Tesalonicenses fué escrita de Atenas."
+          "text": "La gracia de nuestro Señor Jesucristo sea con vosotros. Amén. "
         }
       ]
     }

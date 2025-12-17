@@ -17,7 +17,7 @@ export type BibleBook = {
 
 export default function BibleReader({ book }: { book: BibleBook }) {
     return (
-        <div className="space-y-8">
+        <div className="space-y-1 leading-relaxed font-[var(--font-bible)] text-lg">
             {book.chapters.map((ch) => (
                 <section key={ch.chapter}>
                     <h2 className="text-xl font-semibold mb-3">

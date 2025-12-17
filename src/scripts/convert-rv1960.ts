@@ -2,52 +2,46 @@ import fs from "fs";
 import { XMLParser } from "fast-xml-parser";
 
 const xml = fs.readFileSync(
-  "SF_2009-01-22_SPA_BIBLE_SPARV.xml", 
+  "RV1960.xml", // ajustá el nombre si es distinto
   "utf-8"
 );
 
 const parser = new XMLParser({
   ignoreAttributes: false,
-  attributeNamePrefix: "",
+  attributeNamePrefix: "@_",
   trimValues: false,
 });
 
 const json = parser.parse(xml);
 
-const bible = json.XMLBIBLE;
-
-if (!bible || !bible.BIBLEBOOK) {
-  throw new Error("No se encontraron libros en el XML Zefania");
+if (!json.bible || !json.bible.b) {
+  throw new Error("Estructura de XML inválida");
 }
+
+const books = Array.isArray(json.bible.b)
+  ? json.bible.b
+  : [json.bible.b];
 
 fs.mkdirSync("src/data/bible/rv1960", { recursive: true });
 
-const books = Array.isArray(bible.BIBLEBOOK)
-  ? bible.BIBLEBOOK
-  : [bible.BIBLEBOOK];
-
 for (const book of books) {
-  const bookName = book.bname;
-  const shortName = book.bsname;
-  const bookNumber = Number(book.bnumber);
+  const bookName = book["@_n"];
 
-  const chapters = Array.isArray(book.CHAPTER)
-    ? book.CHAPTER
-    : [book.CHAPTER];
+  const chapters = Array.isArray(book.c)
+    ? book.c
+    : [book.c];
 
   const result = {
-    bookNumber,
     book: bookName,
-    abbrev: shortName,
     chapters: chapters.map((ch: any) => {
-      const verses = Array.isArray(ch.VERS)
-        ? ch.VERS
-        : [ch.VERS];
+      const verses = Array.isArray(ch.v)
+        ? ch.v
+        : [ch.v];
 
       return {
-        chapter: Number(ch.cnumber),
+        chapter: Number(ch["@_n"]),
         verses: verses.map((v: any) => ({
-          v: Number(v.vnumber),
+          v: Number(v["@_n"]),
           text: typeof v === "string" ? v : v["#text"],
         })),
       };
@@ -67,4 +61,4 @@ for (const book of books) {
   );
 }
 
-console.log("✔ Conversión Zefania RV completada correctamente");
+console.log("✔ Conversión RV1960 completada correctamente");

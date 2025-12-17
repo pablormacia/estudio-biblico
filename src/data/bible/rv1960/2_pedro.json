@@ -1,94 +1,92 @@
 {
-  "bookNumber": 61,
   "book": "2 Pedro",
-  "abbrev": "2Pe",
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "v": 1,
-          "text": "SIMON Pedro, siervo y apóstol de Jesucristo, á los que habéis alcanzado fe igualmente preciosa con nosotros en la justicia de nuestro Dios y Salvador Jesucristo:"
+          "text": "Simón Pedro, siervo y apóstol de Jesucristo, a los que habéis alcanzado, por la justicia de nuestro Dios y Salvador Jesucristo, una fe igualmente preciosa que la nuestra:"
         },
         {
           "v": 2,
-          "text": "Gracia y paz os sea multiplicada en el conocimiento de Dios, y de nuestro Señor Jesús."
+          "text": "Gracia y paz os sean multiplicadas, en el conocimiento de Dios y de nuestro Señor Jesús."
         },
         {
           "v": 3,
-          "text": "Como todas las cosas que pertenecen á la vida y á la piedad nos sean dadas de su divina potencia, por el conocimiento de aquel que nos ha llamado por su gloria y virtud:"
+          "text": "Como todas las cosas que pertenecen a la vida y a la piedad nos han sido dadas por su divino poder, mediante el conocimiento de aquel que nos llamó por su gloria y excelencia,"
         },
         {
           "v": 4,
-          "text": "Por las cuales nos son dadas preciosas y grandísimas promesas, para que por ellas fueseis hechos participantes de la naturaleza divina, habiendo huído de la corrupción que está en el mundo por concupiscencia."
+          "text": "por medio de las cuales nos ha dado preciosas y grandísimas promesas, para que por ellas llegaseis a ser participantes de la naturaleza divina, habiendo huido de la corrupción que hay en el mundo a causa de la concupiscencia;"
         },
         {
           "v": 5,
-          "text": "Vosotros también, poniendo toda diligencia por esto mismo, mostrad en vuestra fe virtud, y en la virtud ciencia;"
+          "text": "vosotros también, poniendo toda diligencia por esto mismo, añadid a vuestra fe virtud; a la virtud, conocimiento;"
         },
         {
           "v": 6,
-          "text": "Y en la ciencia templanza, y en la templanza paciencia, y en la paciencia temor de Dios;"
+          "text": "al conocimiento, dominio propio; al dominio propio, paciencia; a la paciencia, piedad;"
         },
         {
           "v": 7,
-          "text": "Y en el temor de Dios, amor fraternal, y en el amor fraternal caridad."
+          "text": "a la piedad, afecto fraternal; y al afecto fraternal, amor."
         },
         {
           "v": 8,
-          "text": "Porque si en vosotros hay estas cosas, y abundan, no os dejarán estar ociosos, ni estériles en el conocimiento de nuestro Señor Jesucristo."
+          "text": "Porque si estas cosas están en vosotros, y abundan, no os dejarán estar ociosos ni sin fruto en cuanto al conocimiento de nuestro Señor Jesucristo."
         },
         {
           "v": 9,
-          "text": "Mas el que no tiene estas cosas, es ciego, y tiene la vista muy corta, habiendo olvidado la purificación de sus antiguos pecados."
+          "text": "Pero el que no tiene estas cosas tiene la vista muy corta; es ciego, habiendo olvidado la purificación de sus antiguos pecados."
         },
         {
           "v": 10,
-          "text": "Por lo cual, hermanos, procurad tanto más de hacer firme vuestra vocación y elección; porque haciendo estas cosas, no caeréis jamás."
+          "text": "Por lo cual, hermanos, tanto más procurad hacer firme vuestra vocación y elección; porque haciendo estas cosas, no caeréis jamás."
         },
         {
           "v": 11,
-          "text": "Porque de esta manera os será abundantemente administrada la entrada en el reino eterno de nuestro Señor y Salvador Jesucristo."
+          "text": "Porque de esta manera os será otorgada amplia y generosa entrada en el reino eterno de nuestro Señor y Salvador Jesucristo."
         },
         {
           "v": 12,
-          "text": "Por esto, yo no dejaré de amonestaros siempre de estas cosas, aunque vosotros las sepáis, y estéis confirmados en la verdad presente."
+          "text": "Por esto, yo no dejaré de recordaros siempre estas cosas, aunque vosotros las sepáis, y estéis confirmados en la verdad presente."
         },
         {
           "v": 13,
-          "text": "Porque tengo por justo, en tanto que estoy en este tabernáculo, de incitaros con amonestación:"
+          "text": "Pues tengo por justo, en tanto que estoy en este cuerpo, el despertaros con amonestación;"
         },
         {
           "v": 14,
-          "text": "Sabiendo que brevemente tengo de dejar mi tabernáculo, como nuestro Señor Jesucristo me ha declarado."
+          "text": "sabiendo que en breve debo abandonar el cuerpo, como nuestro Señor Jesucristo me ha declarado."
         },
         {
           "v": 15,
-          "text": "También yo procuraré con diligencia, que después de mi fallecimiento, vosotros podáis siempre tener memoria de estas cosas."
+          "text": "También yo procuraré con diligencia que después de mi partida vosotros podáis en todo momento tener memoria de estas cosas."
         },
         {
           "v": 16,
-          "text": "Porque no os hemos dado á conocer la potencia y la venida de nuestro Señor Jesucristo, siguiendo fábulas por arte compuestas; sino como habiendo con nuestros propios ojos visto su majestad."
+          "text": "Porque no os hemos dado a conocer el poder y la venida de nuestro Señor Jesucristo siguiendo fábulas artificiosas, sino como habiendo visto con nuestros propios ojos su majestad."
         },
         {
           "v": 17,
-          "text": "Porque él había recibido de Dios Padre honra y gloria, cuando una tal voz fué á él enviada de la magnífica gloria: Este es el amado Hijo mío, en el cual yo me he agradado."
+          "text": "Pues cuando él recibió de Dios Padre honra y gloria, le fue enviada desde la magnífica gloria una voz que decía: Este es mi Hijo amado, en el cual tengo complacencia."
         },
         {
           "v": 18,
-          "text": "Y nosotros oímos esta voz enviada del cielo, cuando estábamos juntamente con él en el monte santo."
+          "text": "Y nosotros oímos esta voz enviada del cielo, cuando estábamos con él en el monte santo."
         },
         {
           "v": 19,
-          "text": "Tenemos también la palabra profética más permanente, á la cual hacéis bien de estar atentos como á una antorcha que alumbra en lugar oscuro hasta que el día esclarezca, y el lucero de la mañana salga en vuestros corazones:"
+          "text": "Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y el lucero de la mañana salga en vuestros corazones;"
         },
         {
           "v": 20,
-          "text": "Entendiendo primero esto, que ninguna profecía de la Escritura es de particular interpretación;"
+          "text": "entendiendo primero esto, que ninguna profecía de la Escritura es de interpretación privada,"
         },
         {
           "v": 21,
-          "text": "Porque la profecía no fué en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo."
+          "text": "porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo."
         }
       ]
     },
@@ -97,91 +95,91 @@
       "verses": [
         {
           "v": 1,
-          "text": "PERO hubo también falsos profetas en el pueblo, como habrá entre vosotros falsos doctores, que introducirán encubiertamente herejías de perdición, y negarán al Señor que los rescató, atrayendo sobre sí mismos perdición acelerada."
+          "text": "Pero hubo también falsos profetas entre el pueblo, como habrá entre vosotros falsos maestros, que introducirán encubiertamente herejías destructoras, y aun negarán al Señor que los rescató, atrayendo sobre sí mismos destrucción repentina."
         },
         {
           "v": 2,
-          "text": "Y muchos seguirán sus disoluciones, por los cuales el camino de la verdad será blasfemado;"
+          "text": "Y muchos seguirán sus disoluciones, por causa de los cuales el camino de la verdad será blasfemado,"
         },
         {
           "v": 3,
-          "text": "Y por avaricia harán mercadería de vosotros con palabras fingidas, sobre los cuales la condenación ya de largo tiempo no se tarda, y su perdición no se duerme."
+          "text": "y por avaricia harán mercadería de vosotros con palabras fingidas. Sobre los tales ya de largo tiempo la condenación no se tarda, y su perdición no se duerme."
         },
         {
           "v": 4,
-          "text": "Porque si Dios no perdonó á los ángeles que habían pecado, sino que habiéndolos despeñado en el infierno con cadenas de oscuridad, los entregó para ser reservados al juicio;"
+          "text": "Porque si Dios no perdonó a los ángeles que pecaron, sino que arrojándolos al infierno los entregó a prisiones de oscuridad, para ser reservados al juicio;"
         },
         {
           "v": 5,
-          "text": "Y si no perdonó al mundo viejo, mas guardó á Noé, pregonero de justicia, con otras siete personas, trayendo el diluvio sobre el mundo de malvados;"
+          "text": "y si no perdonó al mundo antiguo, sino que guardó a Noé, pregonero de justicia, con otras siete personas, trayendo el diluvio sobre el mundo de los impíos;"
         },
         {
           "v": 6,
-          "text": "Y si condenó por destrucción las ciudades de Sodoma y de Gomorra, tornándolas en ceniza, y poniéndolas por ejemplo á los que habían de vivir sin temor y reverencia de Dios,"
+          "text": "y si condenó por destrucción a las ciudades de Sodoma y de Gomorra, reduciéndolas a ceniza y poniéndolas de ejemplo a los que habían de vivir impíamente,"
         },
         {
           "v": 7,
-          "text": "Y libró al justo Lot, acosado por la nefanda conducta de los malvados;"
+          "text": "y libró al justo Lot, abrumado por la nefanda conducta de los malvados"
         },
         {
           "v": 8,
-          "text": "(Porque este justo, con ver y oir, morando entre ellos, afligía cada día su alma justa con los hechos de aquellos injustos;)"
+          "text": "(porque este justo, que moraba entre ellos, afligía cada día su alma justa, viendo y oyendo los hechos inicuos de ellos),"
         },
         {
           "v": 9,
-          "text": "Sabe el Señor librar de tentación á los píos, y reservar á los injustos para ser atormentados en el día del juicio;"
+          "text": "sabe el Señor librar de tentación a los piadosos, y reservar a los injustos para ser castigados en el día del juicio;"
         },
         {
           "v": 10,
-          "text": "Y principalmente á aquellos que, siguiendo la carne, andan en concupiscencia é inmundicia, y desprecian la potestad; atrevidos, contumaces, que no temen decir mal de las potestades superiores:"
+          "text": "y mayormente a aquellos que, siguiendo la carne, andan en concupiscencia e inmundicia, y desprecian el señorío. Atrevidos y contumaces, no temen decir mal de las potestades superiores,"
         },
         {
           "v": 11,
-          "text": "Como quiera que los mismos ángeles, que son mayores en fuerza y en potencia, no pronuncian juicio de maldición contra ellas delante del Señor."
+          "text": "mientras que los ángeles, que son mayores en fuerza y en potencia, no pronuncian juicio de maldición contra ellas delante del Señor."
         },
         {
           "v": 12,
-          "text": "Mas éstos, diciendo mal de las cosas que no entienden, como bestias brutas, que naturalmente son hechas para presa y destrucción, perecerán en su perdición,"
+          "text": "Pero éstos, hablando mal de cosas que no entienden, como animales irracionales, nacidos para presa y destrucción, perecerán en su propia perdición,"
         },
         {
           "v": 13,
-          "text": "Recibiendo el galardón de su injusticia, ya que reputan por delicia poder gozar de deleites cada día. Estos son suciedades y manchas, los cuales comiendo con vosotros, juntamente se recrean en sus errores;"
+          "text": "recibiendo el galardón de su injusticia, ya que tienen por delicia el gozar de deleites cada día. Estos son inmundicias y manchas, quienes aun mientras comen con vosotros, se recrean en sus errores."
         },
         {
           "v": 14,
-          "text": "Teniendo los ojos llenos de adulterio, y no saben cesar de pecar; cebando las almas inconstantes; teniendo el corazón ejercitado en codicias, siendo hijos de maldición;"
+          "text": "Tienen los ojos llenos de adulterio, no se sacian de pecar, seducen a las almas inconstantes, tienen el corazón habituado a la codicia, y son hijos de maldición."
         },
         {
           "v": 15,
-          "text": "Que han dejado el camino derecho, y se han extraviado, siguiendo el camino de Balaam, hijo de Bosor, el cual amó el premio de la maldad."
+          "text": "Han dejado el camino recto, y se han extraviado siguiendo el camino de Balaam hijo de Beor, el cual amó el premio de la maldad,"
         },
         {
           "v": 16,
-          "text": "Y fué reprendido por su iniquidad: una muda bestia de carga, hablando en voz de hombre, refrenó la locura del profeta."
+          "text": "y fue reprendido por su iniquidad; pues una muda bestia de carga, hablando con voz de hombre, refrenó la locura del profeta."
         },
         {
           "v": 17,
-          "text": "Estos son fuentes sin agua, y nubes traídas de torbellino de viento: para los cuales está guardada la oscuridad de las tinieblas para siempre."
+          "text": "Estos son fuentes sin agua, y nubes empujadas por la tormenta; para los cuales la más densa oscuridad está reservada para siempre."
         },
         {
           "v": 18,
-          "text": "Porque hablando arrogantes palabras de vanidad, ceban con las concupiscencias de la carne en disoluciones á los que verdaderamente habían huído de los que conversan en error;"
+          "text": "Pues hablando palabras infladas y vanas, seducen con concupiscencias de la carne y disoluciones a los que verdaderamente habían huido de los que viven en error."
         },
         {
           "v": 19,
-          "text": "Prometiéndoles libertad, siendo ellos mismos siervos de corrupción. Porque el que es de alguno vencido, es sujeto á la servidumbre del que lo venció."
+          "text": "Les prometen libertad, y son ellos mismos esclavos de corrupción. Porque el que es vencido por alguno es hecho esclavo del que lo venció."
         },
         {
           "v": 20,
-          "text": "Ciertamente, si habiéndose ellos apartado de las contaminaciones del mundo, por el conocimiento del Señor y Salvador Jesucristo, y otra vez envolviéndose en ellas, son vencidos, sus postrimerías les son hechas peores que los principios."
+          "text": "Ciertamente, si habiéndose ellos escapado de las contaminaciones del mundo, por el conocimiento del Señor y Salvador Jesucristo, enredándose otra vez en ellas son vencidos, su postrer estado viene a ser peor que el primero."
         },
         {
           "v": 21,
-          "text": "Porque mejor les hubiera sido no haber conocido el camino de la justicia, que después de haberlo conocido, tornarse atrás del santo mandamiento que les fué dado."
+          "text": "Porque mejor les hubiera sido no haber conocido el camino de la justicia, que después de haberlo conocido, volverse atrás del santo mandamiento que les fue dado."
         },
         {
           "v": 22,
-          "text": "Pero les ha acontecido lo del verdadero proverbio: El perro se volvió á su vómito, y la puerca lavada á revolcarse en el cieno."
+          "text": "Pero les ha acontecido lo del verdadero proverbio: El perro vuelve a su vómito, y la puerca lavada a revolcarse en el cieno."
         }
       ]
     },
@@ -190,75 +188,75 @@
       "verses": [
         {
           "v": 1,
-          "text": "CARISIMOS, yo os escribo ahora esta segunda carta, por las cuales ambas despierto con exhortación vuestro limpio entendimiento;"
+          "text": "Amados, esta es la segunda carta que os escribo, y en ambas despierto con exhortación vuestro limpio entendimiento,"
         },
         {
           "v": 2,
-          "text": "Para que tengáis memoria de las palabras que antes han sido dichas por los santos profetas, y de nuestro mandamiento, que somos apóstoles del Señor y Salvador:"
+          "text": "para que tengáis memoria de las palabras que antes han sido dichas por los santos profetas, y del mandamiento del Señor y Salvador dado por vuestros apóstoles;"
         },
         {
           "v": 3,
-          "text": "Sabiendo primero esto, que en los postrimeros días vendrán burladores, andando según sus propias concupiscencias,"
+          "text": "sabiendo primero esto, que en los postreros días vendrán burladores, andando según sus propias concupiscencias,"
         },
         {
           "v": 4,
-          "text": "Y diciendo: ¿Dónde está la promesa de su advenimiento? porque desde el día en que los padres durmieron, todas las cosas permanecen así como desde el principio de la creación."
+          "text": "y diciendo: ¿Dónde está la promesa de su advenimiento? Porque desde el día en que los padres durmieron, todas las cosas permanecen así como desde el principio de la creación."
         },
         {
           "v": 5,
-          "text": "Cierto ellos ignoran voluntariamente, que los cielos fueron en el tiempo antiguo, y la tierra que por agua y en agua está asentada, por la palabra de Dios;"
+          "text": "Estos ignoran voluntariamente, que en el tiempo antiguo fueron hechos por la palabra de Dios los cielos, y también la tierra, que proviene del agua y por el agua subsiste,"
         },
         {
           "v": 6,
-          "text": "Por lo cual el mundo de entonces pereció anegado en agua:"
+          "text": "por lo cual el mundo de entonces pereció anegado en agua;"
         },
         {
           "v": 7,
-          "text": "Mas los cielos que son ahora, y la tierra, son conservados por la misma palabra, guardados para el fuego en el día del juicio, y de la perdición de los hombres impíos."
+          "text": "pero los cielos y la tierra que existen ahora, están reservados por la misma palabra, guardados para el fuego en el día del juicio y de la perdición de los hombres impíos."
         },
         {
           "v": 8,
-          "text": "Mas, oh amados, no ignoréis esta una cosa: que un día delante del Señor es como mil años y mil años como un día."
+          "text": "Mas, oh amados, no ignoréis esto: que para con el Señor un día es como mil años, y mil años como un día."
         },
         {
           "v": 9,
-          "text": "El Señor no tarda su promesa, como algunos la tienen por tardanza; sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
+          "text": "El Señor no retarda su promesa, según algunos la tienen por tardanza, sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
         },
         {
           "v": 10,
-          "text": "Mas el día del Señor vendrá como ladrón en la noche; en el cual los cielos pasarán con grande estruendo, y los elementos ardiendo serán deshechos, y la tierra y las obras que en ella están serán quemadas."
+          "text": "Pero el día del Señor vendrá como ladrón en la noche; en el cual los cielos pasarán con grande estruendo, y los elementos ardiendo serán deshechos, y la tierra y las obras que en ella hay serán quemadas."
         },
         {
           "v": 11,
-          "text": "Pues como todas estas cosas han de ser deshechas, ¿qué tales conviene que vosotros seáis en santas y pías conversaciones,"
+          "text": "Puesto que todas estas cosas han de ser deshechas, ¡cómo no debéis vosotros andar en santa y piadosa manera de vivir,"
         },
         {
           "v": 12,
-          "text": "Esperando y apresurándoos para la venida del día de Dios, en el cual los cielos siendo encendidos serán deshechos, y los elementos siendo abrasados, se fundirán?"
+          "text": "esperando y apresurándoos para la venida del día de Dios, en el cual los cielos, encendiéndose, serán deshechos, y los elementos, siendo quemados, se fundirán!"
         },
         {
           "v": 13,
-          "text": "Bien que esperamos cielos nuevos y tierra nueva, según sus promesas, en los cuales mora la justicia."
+          "text": "Pero nosotros esperamos, según sus promesas, cielos nuevos y tierra nueva, en los cuales mora la justicia."
         },
         {
           "v": 14,
-          "text": "Por lo cual, oh amados, estando en esperanza de estas cosas, procurad con diligencia que seáis hallados de él sin mácula, y sin reprensión, en paz."
+          "text": "Por lo cual, oh amados, estando en espera de estas cosas, procurad con diligencia ser hallados por él sin mancha e irreprensibles, en paz."
         },
         {
           "v": 15,
-          "text": "Y tened por salud la paciencia de nuestro Señor; como también nuestro amado hermano Pablo, según la sabiduría que le ha sido dada, os ha escrito también;"
+          "text": "Y tened entendido que la paciencia de nuestro Señor es para salvación; como también nuestro amado hermano Pablo, según la sabiduría que le ha sido dada, os ha escrito,"
         },
         {
           "v": 16,
-          "text": "Casi en todas sus epístolas, hablando en ellas de estas cosas; entre las cuales hay algunas difíciles de entender, las cuales los indoctos é inconstantes tuercen, como también las otras Escrituras, para perdición de sí mismos."
+          "text": "casi en todas sus epístolas, hablando en ellas de estas cosas; entre las cuales hay algunas difíciles de entender, las cuales los indoctos e inconstantes tuercen, como también las otras Escrituras, para su propia perdición."
         },
         {
           "v": 17,
-          "text": "Así que vosotros, oh amados, pues estáis amonestados, guardaos que por el error de los abominables no seáis juntamente extraviados, y caigáis de vuestra firmeza."
+          "text": "Así que vosotros, oh amados, sabiéndolo de antemano, guardaos, no sea que arrastrados por el error de los inicuos, caigáis de vuestra firmeza."
         },
         {
           "v": 18,
-          "text": "Mas creced en la gracia y conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén."
+          "text": "Antes bien, creced en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén. "
         }
       ]
     }
