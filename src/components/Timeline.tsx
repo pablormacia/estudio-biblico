@@ -72,13 +72,15 @@ export default function TimelineView({
       }
     });
 
-     if (isMobile) {
-      const minYear = Math.min(...events.map((e) => e.start));
+    if (isMobile) {
+      const MOBILE_START_YEAR = -4200;
+
       timeline.setWindow(
-        dateFromYear(minYear),
-        dateFromYear(minYear + MOBILE_INITIAL_SPAN_YEARS),
+        dateFromYear(MOBILE_START_YEAR),
+        dateFromYear(MOBILE_START_YEAR + MOBILE_INITIAL_SPAN_YEARS),
         { animation: false }
       );
+
     }
     timeline.on("select", (props) => {
       if (props.items.length) {
@@ -89,7 +91,7 @@ export default function TimelineView({
     return () => {
       timeline.destroy();
     };
-  }, [events, onSelect,isMobile]);
+  }, [events, onSelect, isMobile]);
 
   return (
     <div
